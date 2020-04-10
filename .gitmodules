@@ -1,0 +1,8 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/pyladies/pyladies.github.io.git
+	branch = master
+[submodule "pelican-fh5co-marble"]
+	path = pelican-fh5co-marble
+	url = https://github.com/pyladies/pelican-fh5co-marble
+	branch = master
