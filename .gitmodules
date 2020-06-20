@@ -6,3 +6,7 @@
 	path = pelican-fh5co-marble
 	url = https://github.com/pyladies/pelican-fh5co-marble
 	branch = master
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins
+	branch = master

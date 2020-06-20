@@ -8,7 +8,7 @@ SITEDESCRIPTION = 'Learn more about the PyLadies Global Council.'
 SITEURL = 'https://pyladies.github.io'
 
 # plugins
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites', 'tipue_search']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
