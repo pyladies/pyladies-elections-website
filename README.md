@@ -19,4 +19,4 @@ To start you'll need to:
 
 3. Install `pip -r requirements.txt`
 
-4. Generate pelican content and serve locally with `pelican content && cd /output && python -m http.server 8000`
+4. Generate pelican content and serve locally with `pelican content && cd output && python -m http.server 8000`
