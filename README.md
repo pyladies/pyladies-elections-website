@@ -27,7 +27,7 @@ To start you'll need to:
    source .ENV/bin/activate
    ```
 
-3. Install `pip -r requirements.txt`
+3. Install `pip install -r requirements.txt`
 
 4. Generate pelican content and serve locally with:
    ```bash
