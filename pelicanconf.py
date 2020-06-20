@@ -92,7 +92,7 @@ SOCIAL = (
 # About
 ABOUT = {
   'image': '/images/pyladies-face.png',
-  'mail': 'info@gpyladies.com',
+  'mail': 'info@pyladies.com',
   # keep it a string if you dont need multiple languages
   'text': {
     'en': 'Learn more about PyLadies.',
