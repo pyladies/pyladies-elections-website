@@ -14,12 +14,12 @@ PyLadies Global Council Election
 Election Calendar
 -----------------
 
-- Open call for Council Member: May 6, 2020 AoE
-- Council Member cut-off: May 31, 2020 AoE 
+- Open call for Council Member Nominations: Aug 6, 2020 AoE
+- Council Member Nomination cut-off: Aug 31, 2020 AoE 
 
-- Voter application cut-off date: May 31, 2020 AoE 
-- Voting start date: June 8, 2020 AoE 
-- Voting end date: June 17, 2020 AoE
+- Voter application cut-off date: Aug 31, 2020 AoE 
+- Voting start date: Sept 7, 2020 AoE 
+- Voting end date: Sept 18, 2020 AoE
 
 Who can vote
 ------------
