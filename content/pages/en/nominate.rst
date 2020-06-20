@@ -4,7 +4,7 @@ Nominate
 :order: 4
 :date: 2020-04-09 10:30
 :icon: icon-link2
-:summary: Details about nominating to be a PyLadies Global Council Member 
+:summary:  
 :lang: en
 :slug: nominate
 

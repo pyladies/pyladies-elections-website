@@ -4,12 +4,12 @@ History
 :order: 1
 :date: 2020-04-09 10:30
 :icon: icon-link2
-:summary: Histoy of the PyLadies Global Council
+:summary: 
 :lang: en
-:slug: History
+:slug: history
 
-Histoy of the PyLadies Global Council
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+History of the PyLadies Global Council
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The beginnings
 --------------

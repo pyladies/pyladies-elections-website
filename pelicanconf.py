@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'PyLadies'
 SITENAME = 'PyLadies Global Council'
 SITEDESCRIPTION = 'Learn more about the PyLadies Global Council.'
-SITEURL = 'https://pyladies.github.io'
+SITEURL = 'http://elections.pyladies.com'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']

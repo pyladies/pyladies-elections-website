@@ -4,7 +4,7 @@ Election
 :order: 3
 :date: 2020-04-09 10:30
 :icon: icon-link2
-:summary: Details about the PyLadies Global Council Election 2020
+:summary: 
 :lang: en
 :slug: election
 
