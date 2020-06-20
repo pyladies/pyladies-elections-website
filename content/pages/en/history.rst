@@ -4,7 +4,7 @@ History
 :order: 1
 :date: 2020-04-09 10:30
 :icon: icon-link2
-:summary: 
+:summary:  
 :lang: en
 :slug: history
 
