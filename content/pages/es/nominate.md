@@ -3,7 +3,7 @@ Order: 4
 Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Details about nominating to be a PyLadies Global Council Member
-Lang: en
+Lang: es
 Slug: nominate
 
 ## Nominating for the PyLadies Global Council
@@ -11,10 +11,10 @@ Slug: nominate
 ### Nomination Calendar
 
 - Open call for Council Member: May 6, 2020 AoE
-- Council Member cut-off: May 31, 2020 AoE 
+- Council Member cut-off: May 31, 2020 AoE
 
-- Voter application cut-off date: May 31, 2020 AoE 
-- Voting start date: June 8, 2020 AoE 
+- Voter application cut-off date: May 31, 2020 AoE
+- Voting start date: June 8, 2020 AoE
 - Voting end date: June 17, 2020 AoE
 
 ### How Nomination Works
