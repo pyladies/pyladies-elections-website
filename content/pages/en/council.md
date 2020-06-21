@@ -10,16 +10,12 @@ Slug: council
 
 ### Our Model
 
-
-.. container:: float-right
-    .. image:: /images/council/council-structure.png
-        :width: 400px
-
 <div class="float-right container">
   <img src="/images/council/council-structure.png"
      alt="PyLadies governance structure" width="400px" />
 </div>
 
+<br>
 
 After a [public request for comment period](https://github.com/pyladies/global-organizing/issues/11) in 2019, PyLadies created the current format for global PyLadies governance:
 
