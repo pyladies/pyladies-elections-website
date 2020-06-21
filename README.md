@@ -30,7 +30,16 @@ To start you'll need to:
 3. Install `pip install -r requirements.txt`
 
 4. Generate pelican content and serve locally with:
+
    ```bash
    pelican content
    pelican --listen
+   ```
+
+   Alternatively, you can use `make` instead of Pelican commands:
+
+   ```bash
+   make clean
+   make html
+   make serve
    ```
