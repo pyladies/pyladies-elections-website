@@ -1,10 +1,10 @@
-Title: About
+Title: Detalles
 Order: 1
 Date: 2020-04-09 10:30
 Icon: icon-link2
-Summary: History and work of the Global Council
-Lang: en
-Slug: about
+Summary: Historia de la Junta Mundial de Pyladies
+Lang: es
+Slug: detalles
 
 ## About the PyLadies Global Council
 
