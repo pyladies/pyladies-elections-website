@@ -16,3 +16,11 @@ Slug: election
 - Voter application cut-off date: May 31, 2020 AoE
 - Voting start date: June 8, 2020 AoE
 - Voting end date: June 17, 2020 AoE
+
+
+###  Register as a Candidate for the Election
+Those interested in declaring their candidacy can do so on the the apply page.
+
+
+### Declaring winners
+	_New section added to declare how winners from voting are determined._
