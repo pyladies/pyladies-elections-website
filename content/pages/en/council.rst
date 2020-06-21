@@ -17,6 +17,7 @@ The Model
 
     .. image:: /images/council/council-structure.png
         :width: 400px
+        :alt: PyLadies governance structure
 
 
 After a `public request for comment period <https://github.com/pyladies/global-organizing/issues/11>`_ in 2019, PyLadies created the current format for global PyLadies governance:

@@ -17,6 +17,7 @@ The beginnings
 
     .. image:: /images/about/future-of-us.png
         :width: 400px
+        :alt: PyLadies organizers at PyCon US 2019
 
 At PyCon US 2019, several PyLadies organizers and other key stakeholders met to discuss the future of PyLadies (`minutes <https://github.com/pyladies/global-organizing/blob/master/notes/2019/06_05_2019.md>`_). This meeting was called to discuss several topics including, but not limited to: organizational priorities, resource management, and fundraising.
 
