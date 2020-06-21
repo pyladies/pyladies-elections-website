@@ -1,14 +1,14 @@
-Title: About
+Title: History
 Order: 1
 Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: History and work of the Global Council
 Lang: en
-Slug: about
+Slug: history
 
 ## About the PyLadies Global Council
 
-### The beginnings
+### Our Beginnings
 
 <div class="float-left container">
   <img src="/images/about/future-of-us.png"
