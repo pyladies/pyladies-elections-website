@@ -1,11 +1,10 @@
-# Nominate
-
-order: 4
-date: 2020-04-09 10:30
-icon: icon-link2
-summary: Details about nominating to be a PyLadies Global Council Member 
-lang: en
-slug: nominate
+Title: Nominate
+Order: 4
+Date: 2020-04-09 10:30
+Icon: icon-link2
+Summary: Details about nominating to be a PyLadies Global Council Member
+Lang: en
+Slug: nominate
 
 ## Nominating for the PyLadies Global Council
 
