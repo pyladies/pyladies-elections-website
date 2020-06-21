@@ -1,44 +1,39 @@
-Election
-########
+Title: Election
+Order: 3
+Date: 2020-04-09 10:30
+Icon: icon-link2
+Summary: Details about the PyLadies Global Council Election 2020
+Lang: es
+Slug: election
 
-:order: 3
-:date: 2020-04-09 10:30
-:icon: icon-link2
-:summary: Details about the PyLadies Global Council Election 2020
-:lang: es
-:slug: election
+## PyLadies Global Council Election
 
-PyLadies Global Council Election
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Election Calendar
------------------
+### Election Calendar
 
 - Open call for Council Member: May 6, 2020 AoE
-- Council Member cut-off: May 31, 2020 AoE 
+- Council Member cut-off: May 31, 2020 AoE
 
-- Voter application cut-off date: May 31, 2020 AoE 
-- Voting start date: June 8, 2020 AoE 
+- Voter application cut-off date: May 31, 2020 AoE
+- Voting start date: June 8, 2020 AoE
 - Voting end date: June 17, 2020 AoE
 
-Who can vote
-------------
+### Who can vote
 
 Any registered PyLadies voting member.
 
 As of today we have registration available in:
 
-- `English <https://forms.gle/f3M4JUzA7JH48Swo8>`_
-- `Chinese - Mandarin <https://docs.google.com/forms/d/e/1FAIpQLSfUMzknSnq55KRpDYuJh2dWUt5r3hjvete-2jHgqSgSWWTo-w/viewform?usp=sf_link>`_
-- `French / Francés <https://docs.google.com/forms/d/e/1FAIpQLSciDGjrh0m66Oa-o-qZH5jYdXFKcpEOjeSoC4IaebY22ofOXA/viewform?usp=sf_link>`_
-- `Portuguese / Português <https://forms.gle/9AdTdBr67ikiAFXSA>`_
-- `Spanish / Español <https://forms.gle/CaDhPsjLgEmrqV7RA>`_
-- `Russian / Русский язык <https://docs.google.com/forms/d/e/1FAIpQLScs5W-ujSTs4tkd_85LJ0Nr5UTgpsyJv0kBUaadk7fKbVSUrA/viewform?usp=sf_link>`_
+- [English](https://forms.gle/f3M4JUzA7JH48Swo8)
+- [Chinese - Mandarin](https://docs.google.com/forms/d/e/1F[IpQLSfUMzknSnq55KRpDYuJh2dWUt5r3hjvete-2jHgqSgSWWTo-w/viewform?usp=sf_link)
+- [French / Francés](https://docs.google.com/forms/d/e/1F[IpQLSciDGjrh0m66Oa-o-qZH5jYdXFKcpEOjeSoC4IaebY22ofOXA/viewform?usp=sf_link)
+- [Portuguese / Português](https://forms.gle/9AdTdBr67ikiAFXSA)
+- [Spanish / Español](https://forms.gle/CaDhPsjLgEmrqV7RA)
+- [Russian / Русский язык](https://docs.google.com/forms/d/e/1FAIpQLScs5W-ujSTs4tkd_85LJ0Nr5UTgpsyJv0kBUaadk7fKbVSUrA/viewform?usp=sf_link)
 
-If you would like see registration provided in another language, please request on the `GitHub issue <https://github.com/pyladies/global-organizing/issues/54>`_.
+If you would like see registration provided in another language, please request
+on the [GitHub issue](https://github.com/pyladies/global-organizing/issues/54).
 
-Qualifications
---------------
+### Qualifications
 
 Any self-identifying PyLadies member can propose themselves for the council, provided the requirements below. If nominating another person for election, that individual must be a self-identifying PyLadies member and their consent will be required (e.g. an email sent to the person and they consent to participate).
 
@@ -49,7 +44,6 @@ Additional requirements to consider:
 - Reasonably responsive on email, GitHub, and Slack
 - A PyLadies member with at least 2 years experience in the community
 
-Register as a candidate for the Election
-----------------------------------------
+### Register as a candidate for the Election
 
 To register for the election as a candidate complete the candidate form here.
