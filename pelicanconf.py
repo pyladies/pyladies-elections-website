@@ -95,7 +95,7 @@ HERO = [
         "links": [],
     },
     {
-        "image": "/images/hero/pyladies_columbia.jpg",
+        "image": "/images/hero/pyladies_recife_brasil.jpg",
         "title": "Would you like to join the PyLadies Global Council?",
         "text": "We need you!",
         "links": [
