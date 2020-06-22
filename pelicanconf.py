@@ -126,10 +126,10 @@ ABOUT = {
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
     "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies"},
-    "link": "contact.html",
+    "link": "http://pyladies.com",
     # the address is also taken for google maps
-    "address": "Chicago, Illinois",
-    "phone": "+999-999-9999",
+    # "address": "Chicago, Illinois",
+    # "phone": "+999-999-9999",
 }
 
 # Navigation
@@ -140,15 +140,13 @@ DISPLAY_TAGS_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = True
 PAGE_ORDER_BY = "order"
 
-MENUITEMS = [("Archive", "archives.html"), ("Contact", "contact.html")]
+MENUITEMS = [("Contact", "contact.html")]
 
 DIRECT_TEMPLATES = [
     "index",
     "tags",
     "categories",
     "authors",
-    "archives",
-    "search",  # needed for tipue_search plugin
     "contact",  # needed for the contact form
 ]
 
@@ -157,7 +155,7 @@ DISQUS_SHORTNAME = "gitcd-dev"
 DISQUS_ON_PAGES = False  # if true its just displayed on every static page, like this you can still enable it per page
 
 # setup google maps
-GOOGLE_MAPS_KEY = "AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA"
+# GOOGLE_MAPS_KEY = "AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA"
 
 # DEFAULT_PAGINATION = 10
 
