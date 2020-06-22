@@ -53,6 +53,14 @@ HERO = [
         ],
     },
     {
+        "image": "/images/hero/pyladies_kampala.jpeg",
+        # keep it a string if you dont need multiple languages
+        "title": "",
+        # keep it a string if you dont need multiple languages
+        "text": "",
+        "links": [],
+    },
+    {
         "image": "/images/hero/pyladies_auction_2019.jpg",
         # keep it a string if you dont need multiple languages
         "title": "Who is the PyLadies Global Council?",
@@ -63,6 +71,14 @@ HERO = [
         ],
     },
     {
+        "image": "/images/hero/pyladies_india.jpg",
+        # keep it a string if you dont need multiple languages
+        "title": "",
+        # keep it a string if you dont need multiple languages
+        "text": "",
+        "links": [],
+    },
+    {
         "image": "/images/hero/pyladies_brasil.jpg",
         "title": "How is the PyLadies Global Council selected?",
         "text": "Register to vote!",
@@ -71,12 +87,28 @@ HERO = [
         ],
     },
     {
+        "image": "/images/hero/pyladies_seattle.jpeg",
+        # keep it a string if you dont need multiple languages
+        "title": "",
+        # keep it a string if you dont need multiple languages
+        "text": "",
+        "links": [],
+    },
+    {
         "image": "/images/hero/pyladies_columbia.jpg",
         "title": "Would you like to join the PyLadies Global Council?",
         "text": "We need you!",
         "links": [
             {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/nominate.html", "text": "Apply today!"}
         ],
+    },
+    {
+        "image": "/images/hero/pyladies_tokyo.jpg",
+        # keep it a string if you dont need multiple languages
+        "title": "",
+        # keep it a string if you dont need multiple languages
+        "text": "",
+        "links": [],
     },
 ]
 
