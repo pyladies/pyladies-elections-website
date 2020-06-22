@@ -35,7 +35,7 @@ I18N_SUBSITES = {
 }
 
 # logo path, needs to be stored in PATH Setting
-LOGO = "/images/pyladies-face.png"
+LOGO = "/images/pyladies_refresh.png"
 
 # special content
 HERO = [
@@ -114,15 +114,15 @@ HERO = [
 
 # Social widget
 SOCIAL = (
-    ("Github", "https://www.github.com/pyladies"),
-    ("Facebook", "https://www.facebook.com/pyladies"),
-    ("Twitter", "https://www.twitter.com/pyladies"),
-    ("Slack", "https://slackin.pyladies.com"),
+    ("Github", "https://www.github.com/pyladies", "images/icons/github.svg"),
+    ("Instagram", "https://www.instagram.com/pyladies_global", "images/icons/instagram.svg"),
+    ("Slack", "https://slackin.pyladies.com", "images/icons/slack.svg"),
+    ("Twitter", "https://www.twitter.com/pyladies", "images/icons/twitter.svg"),
 )
 
 # About
 ABOUT = {
-    "image": "/images/pyladies-face.png",
+    "image": "/images/pyladies_refresh.png",
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
     "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies"},
