@@ -99,7 +99,7 @@ HERO = [
         "title": "Would you like to join the PyLadies Global Council?",
         "text": "We need you!",
         "links": [
-            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/nominate.html", "text": "Apply today!"}
+            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/apply.html", "text": "Apply today!"}
         ],
     },
     {
