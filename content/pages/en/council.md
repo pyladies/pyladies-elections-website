@@ -10,9 +10,9 @@ Slug: council
 
 ### Our Model
 
-<div class="float-right container">
+<div class="float-center container">
   <img src="/images/council/council-structure-II.svg"
-     alt="PyLadies governance structure" width="600px" />
+     alt="PyLadies governance structure" width="900px" />
 </div>
 
 <br>
