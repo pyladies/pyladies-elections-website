@@ -1,8 +1,12 @@
 # pyladies.github.io-src
 
-This repository includes submodules:
+The PyLadies Election page is a Python 3 pelican powered website. This repository includes the pelican theme and code to generate the static files that are served via the pyladies.github.io GitHub page.
 
-- `/output`: content that builds `pyladies.github.io`
+## Organization
+
+This repository includes the following submodules:
+
+- `/output`: content that builds `pyladies.github.io` and serves on custom subdomain `elections.pyladies.com`
 - `/pelican-plugins`: points to the main pelican-plugins repo
 - `/pelican-fh5co-marble`: points to a fork of the theme fetched from [pelican-themes](http://www.pelicanthemes.com/)
 
@@ -10,7 +14,7 @@ This repository includes submodules:
 
 To start you'll need to:
 
-1. Clone the repo
+1. Clone the repo:
 
    - If you have git 2.11+:
      ```bash
@@ -27,7 +31,7 @@ To start you'll need to:
    source .ENV/bin/activate
    ```
 
-3. Install `pip install -r requirements.txt`
+3. Install `pip install -r requirements.txt`.
 
 4. Generate pelican content and serve locally with:
 
@@ -39,7 +43,36 @@ To start you'll need to:
    Alternatively, you can use `make` instead of Pelican commands:
 
    ```bash
-   make clean
    make html
    make serve
    ```
+
+## Working with submodules: Syncing the `content` submodule with elections.pyladies.com
+
+After generating the static files with either `pelican content` or `make html` you will need to push changes to the Election GitHub page repo:
+
+1. `cd /output`
+2. Confirm remote -v points to Election GitHub page repo:
+  
+  ```bash
+  git remote -v 
+  origin  https://github.com/pyladies/pyladies.github.io.git (fetch)
+  origin  https://github.com/pyladies/pyladies.github.io.git (push)
+  ```
+
+  If the submodule remote doesn't exist:
+
+  ```bash
+  git submodule update  --init 
+  ```
+
+  Confirm that the remote is properly set, if so recreate the static files with either `pelican content` or `make html`. Confirm the `CNAME` file exists in `/output` with `elections.pyladies.com`  as well.
+3. Push content to the  Election GitHub page :
+   ```bash
+   git status
+   git add <files>
+   git  commit -m "Meaningful message"
+   git push origin master
+   ```
+
+   Navigate to elections.pyladies.com to confirm pages are live. 
