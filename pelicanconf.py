@@ -53,7 +53,7 @@ HERO = [
         ],
     },
     {
-        "image": "/images/hero/pyladies-auction-130.jpg",
+        "image": "/images/hero/pyladies_auction_2019.jpg",
         # keep it a string if you dont need multiple languages
         "title": "Who is the PyLadies Global Council?",
         # keep it a string if you dont need multiple languages
