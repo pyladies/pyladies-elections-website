@@ -40,37 +40,43 @@ LOGO = "/images/pyladies-face.png"
 # special content
 HERO = [
     {
-        "image": "/images/hero/pyladies_brasil.jpg",
+        "image": "/images/hero/pyladies_taiwan.jpg",
         # for multilanguage support, create a simple dict
-        "title": {"en": "Some special content", "es": "Algo especial",},
+        "title": {"en": "What is the PyLadies Global Council?", "es": "Algo especial",},
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
-            "en": "Any special content you want to tease here",
+            "en": "The global leadership team for PyLadies.",
             "es": "Algo especial compartir con el publico",
         },
         "links": [
-            {"icon": "icon-code", "url": "https://github.com/pyladies", "text": "Github"}
+            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/history.html", "text": "History"}
         ],
     },
     {
         "image": "/images/hero/pyladies-auction-130.jpg",
         # keep it a string if you dont need multiple languages
-        "title": "Uh, special too",
+        "title": "Who is the PyLadies Global Council?",
         # keep it a string if you dont need multiple languages
-        "text": "Keep hero.text and hero.title a string if you dont need multilanguage.",
-        "links": [],
+        "text": "",
+        "links": [
+            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/council.html", "text": "Meet the Council"}
+        ],
     },
     {
-        "image": "/images/hero/pyladies-nyc.jpeg",
-        "title": "No Blogroll yet",
-        "text": "Because of space issues in the man-nav, i didnt implemented Blogroll links yet.",
-        "links": [],
+        "image": "/images/hero/pyladies_brasil.jpg",
+        "title": "How is the PyLadies Global Council selected?",
+        "text": "Register to vote!",
+        "links": [
+            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/vote.html", "text": "Vote"}
+        ],
     },
     {
-        "image": "/images/hero/pyladies_auction_2019.jpg",
-        "title": "Ads missing as well",
-        "text": "And since i hate any ads, this is not implemented as well",
-        "links": [],
+        "image": "/images/hero/pyladies_columbia.jpg",
+        "title": "Would you like to join the PyLadies Global Council?",
+        "text": "We need you!",
+        "links": [
+            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/nominate.html", "text": "Apply today!"}
+        ],
     },
 ]
 
