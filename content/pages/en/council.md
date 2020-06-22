@@ -11,8 +11,8 @@ Slug: council
 ### Our Model
 
 <div class="float-right container">
-  <img src="/images/council/council-structure.png"
-     alt="PyLadies governance structure" width="400px" />
+  <img src="/images/council/council-structure-II.svg"
+     alt="PyLadies governance structure" width="600px" />
 </div>
 
 <br>
