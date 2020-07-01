@@ -1,6 +1,6 @@
-# pyladies.github.io-src
+# PyLadies Elections Website Source 
 
-The PyLadies Election page is a Python 3 pelican powered website. This repository includes the pelican theme and code to generate the static files that are served via the pyladies.github.io GitHub page.
+The PyLadies Election page is a Python 3 pelican powered website. This repository includes the pelican theme and code to generate the static files that are served via the pyladies.github.io/elections GitHub project page.
 
 ## Organization
 
