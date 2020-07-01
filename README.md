@@ -6,7 +6,7 @@ The PyLadies Election page is a Python 3 pelican powered website. This repositor
 
 This repository includes the following submodules:
 
-- `/output`: content that builds `pyladies.github.io` and serves on custom subdomain `elections.pyladies.com`
+- `/output`: content that builds `pyladies.github.io/elections` and serves on custom subdomain `elections.pyladies.com`
 - `/pelican-plugins`: points to the main pelican-plugins repo
 - `/pelican-fh5co-marble`: points to a fork of the theme fetched from [pelican-themes](http://www.pelicanthemes.com/)
 
@@ -18,11 +18,11 @@ To start you'll need to:
 
    - If you have git 2.11+:
      ```bash
-     git clone --recurse-submodules https://github.com/pyladies/pyladies.github.io-src
+     git clone --recurse-submodules https://github.com/pyladies/pyladies-elections-website-src
      ```
    - Otherwise run:
      ```bash
-     git clone --recursive https://github.com/pyladies/pyladies.github.io-src
+     git clone --recursive https://github.com/pyladies/pyladies-elections-website-src
      ```
 
 2. Setup and activate a virtual environment:
@@ -56,8 +56,8 @@ After generating the static files with either `pelican content` or `make html` y
   
   ```bash
   git remote -v 
-  origin  https://github.com/pyladies/pyladies.github.io.git (fetch)
-  origin  https://github.com/pyladies/pyladies.github.io.git (push)
+  origin  https://github.com/pyladies/pyladies-elections-website-src (fetch)
+  origin  https://github.com/pyladies/pyladies-elections-website-src (push)
   ```
 
   If the submodule remote doesn't exist:
@@ -72,7 +72,7 @@ After generating the static files with either `pelican content` or `make html` y
    git status
    git add <files>
    git  commit -m "Meaningful message"
-   git push origin master
+   git push origin main
    ```
 
    Navigate to elections.pyladies.com to confirm pages are live. 
