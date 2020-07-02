@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = "PyLadies"
 SITENAME = "PyLadies Global Council"
 SITEDESCRIPTION = "Learn more about the PyLadies Global Council."
-SITEURL = "https://pyladies.github.io/docs/elections"
+SITEURL = ""
 
 # plugins
 PLUGIN_PATHS = ["pelican-plugins"]
@@ -113,10 +113,10 @@ HERO = [
 
 # Social widget
 SOCIAL = (
-    ("Github", "https://www.github.com/pyladies", "https://elections.pyladies.com/docs/elections/images/icons/github.svg"),
-    ("Instagram", "https://www.instagram.com/pyladies_global", "https://elections.pyladies.com/docs/elections/images/icons/instagram.svg"),
-    ("Slack", "https://slackin.pyladies.com", "https://elections.pyladies.com/docs/elections/images/icons/slack.svg"),
-    ("Twitter", "https://www.twitter.com/pyladies", "https://elections.pyladies.com/docs/elections/images/icons/twitter.svg"),
+    ("Github", "https://www.github.com/pyladies", "https://elections.pyladies.com/images/icons/github.svg"),
+    ("Instagram", "https://www.instagram.com/pyladies_global", "https://elections.pyladies.com/images/icons/instagram.svg"),
+    ("Slack", "https://slackin.pyladies.com", "https://elections.pyladies.com/images/icons/slack.svg"),
+    ("Twitter", "https://www.twitter.com/pyladies", "https://elections.pyladies.com/images/icons/twitter.svg"),
 )
 
 # About

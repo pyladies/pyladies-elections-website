@@ -9,4 +9,4 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/pyladies/pyladies-election-website.git
-	branch = master
+	branch = gh-pages
