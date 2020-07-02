@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = "PyLadies"
 SITENAME = "PyLadies Global Council"
 SITEDESCRIPTION = "Learn more about the PyLadies Global Council."
-# Removing url in dev config prevents redirection to live site
-SITEURL = ""
+SITEURL = "https://pyladies.github.io/docs/elections"
 
 # plugins
 PLUGIN_PATHS = ["pelican-plugins"]
