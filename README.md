@@ -6,9 +6,12 @@ The PyLadies Election page is a Python 3 pelican powered website. This repositor
 
 This repository includes the following submodules:
 
-- `/output`: content that builds `pyladies.github.io/elections` and serves on custom subdomain `elections.pyladies.com`
 - `/pelican-plugins`: points to the main pelican-plugins repo
 - `/pelican-fh5co-marble`: points to a fork of the theme fetched from [pelican-themes](http://www.pelicanthemes.com/)
+
+Additionally the repository includes the following:
+
+- `/output`: content that is served on the `elections.pyladies.com` via GitHub actions on the `gh-pages` branch (see `.github/workflows/build_deploy.yml`)
 
 ## Installation
 
@@ -47,17 +50,40 @@ To start you'll need to:
    make serve
    ```
 
-## Working with submodules: Syncing the `content` submodule with elections.pyladies.com
+## Updating elections.pyladies.com
 
-After generating the static files with either `pelican content` or `make html` you will need to push changes to the Election GitHub page repo:
+Whenever a push action is issued again `main` GitHub Actions will run the `build_deploy.yml` workflow to:
 
-1. `cd /output`
-2. Confirm remote -v points to Election GitHub page repo:
+- Checkout the submodules with the pelican theme (`/pelican-fh5co-marble`) and plugin (`/pelican-fh5co-marble`)
+- Install the `requirements.txt`
+- Run `pelican content` to repopulate `/output`
+- Push `/ouput` to `gh-pages` to host the content via GitHub pages
+
+Navigate to elections.pyladies.com to confirm the changes are live. 
+
+## Working with submodules: Syncing the theme and plugin submodules with elections.pyladies.com
+
+### Confirm the submodules
+
+```bash
+$ git submodule
+$ 700eb3b435f18ef0ca9b7bdf7f8ca0a3d59f2e46 pelican-fh5co-marble (v1.0.1-25-g700eb3b)
+$ f191788fe0bf3cae54f22b5b447dd23b8d32364e pelican-plugins (heads/master)
+```
+
+This confirms the latest commit the repository has checked out for each of the submodules: the theme (`pelican-fh5co-marble`) as well as the plugins (`pelican-plugins`).
+
+### Init the submodules if missing
+
+Example of initializing the `/pelican-fh5co-marble` submodule:
+
+1. `cd /pelican-fh5co-marble`
+2. Confirm `git remote -v` points to proper repo
   
   ```bash
   git remote -v 
-  origin  https://github.com/pyladies/pyladies-elections-website-src (fetch)
-  origin  https://github.com/pyladies/pyladies-elections-website-src (push)
+  origin	https://github.com/pyladies/pelican-fh5co-marble (fetch)
+  origin	https://github.com/pyladies/pelican-fh5co-marble (push)
   ```
 
   If the submodule remote doesn't exist:
@@ -66,13 +92,18 @@ After generating the static files with either `pelican content` or `make html` y
   git submodule update  --init 
   ```
 
-  Confirm that the remote is properly set, if so recreate the static files with either `pelican content` or `make html`. Confirm the `CNAME` file exists in `/output` with `elections.pyladies.com`  as well.
-3. Push content to the  Election GitHub page :
-   ```bash
-   git status
-   git add <files>
-   git  commit -m "Meaningful message"
-   git push origin main
-   ```
+### Update the submodule after changes made
 
-   Navigate to elections.pyladies.com to confirm pages are live. 
+The workflow is the same as working in a standard repository, if updating the `pelican-fh5co-marble` submodule:
+
+```bash
+$ cd /pelican-fh5co-marble
+$ git status
+$ git add <FILES_CHANGED>
+$ git commit -m "Meaningful message"
+$ git push origin main
+$ cd ../
+$ git add pelican-fh5co-marble
+$ git commit -m "Updated submodule"
+$ git push origin feature_branch
+```
