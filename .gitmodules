@@ -6,7 +6,3 @@
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins
 	branch = master
-[submodule "output"]
-	path = output
-	url = https://github.com/pyladies/pyladies-election-website.git
-	branch = gh-pages
