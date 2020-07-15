@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1454px" height="961px" viewBox="0 0 1454 961" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="249.128676%" gradientTransform="translate(0.500000,0.500000),scale(0.187826,1.000000),rotate(-7.546546),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#C42539" offset="55.5743243%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Global-Leadership" transform="translate(117.000000, 41.500000)">
+            <path d="M52,104 L566,104 C594.718807,104 618,127.281193 618,156 L618,760 C618,788.718807 594.718807,812 566,812 L52,812 C23.281193,812 3.51703951e-15,788.718807 0,760 L0,156 C-3.51703951e-15,127.281193 23.281193,104 52,104 Z" id="Dotted-Outline" stroke="#EE264D" stroke-width="6" stroke-linecap="round" stroke-dasharray="0,15"></path>
+            <text font-family="Montserrat-Bold, Montserrat" font-size="30" font-weight="bold" letter-spacing="1.5589275" fill="#000000">
+                <tspan x="154.554116" y="29.5">Global Leadership</tspan>
+            </text>
+            <g id="Global-Council" transform="translate(80.500000, 145.000000)">
+                <rect id="Rectangle" stroke="#F5A623" stroke-width="3" fill="#FFD141" opacity="0.591913132" x="0.5" y="0.5" width="456" height="405" rx="55"></rect>
+                <text id="●-9-Seats-(6-elected" font-family="LucidaGrande-Bold, Lucida Grande" font-size="18" font-weight="bold" line-spacing="25" letter-spacing="1.085357" fill="#000000">
+                    <tspan x="59" y="125.5">●</tspan>
+                    <tspan x="70.491607" y="125.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">9 Seats (6 elected, 3 appointed)</tspan>
+                    <tspan x="59" y="150.5">●</tspan>
+                    <tspan x="70.491607" y="150.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="150.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">Active Leadership Team</tspan>
+                    <tspan x="59" y="175.5">●</tspan>
+                    <tspan x="70.491607" y="175.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="175.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">Liaison to PSF</tspan>
+                    <tspan x="221.897962" y="175.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="59" y="200.5">●</tspan>
+                    <tspan x="70.491607" y="200.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="200.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">Moderates Public Facing Assets  </tspan>
+                    <tspan x="59" y="225.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">   </tspan>
+                    <tspan x="77.160071" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-size="14" font-style="italic" font-weight="500" letter-spacing="0.777777778">(e.g. Slack, GitHub, Website, &amp; Social Media)</tspan>
+                    <tspan x="423.114071" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-style="italic" font-weight="500" letter-spacing="1"></tspan>
+                    <tspan x="59" y="250.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="59" y="275.5">●</tspan>
+                    <tspan x="70.491607" y="275.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="275.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">Meets monthly online</tspan>
+                    <tspan x="301.310104" y="275.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="59" y="300.5">●</tspan>
+                    <tspan x="70.491607" y="300.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="76.670964" y="300.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">Meets annually in person </tspan>
+                    <tspan x="59" y="325.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">   at PyCon USA</tspan>
+                </text>
+                <text id="PyLadies-Global-Coun" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.8471424" fill="#000000">
+                    <tspan x="60.1338624" y="63.5">PyLadies Global Council</tspan>
+                    <tspan x="232" y="92.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                    <tspan x="232" y="111.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                </text>
+            </g>
+            <g id="Advisors" transform="translate(81.500000, 584.000000)">
+                <rect id="Rectangle" stroke="#0C395D" stroke-width="2" fill="#366F9E" opacity="0.731654576" x="0.5" y="0.5" width="454" height="176" rx="38"></rect>
+                <text id="●-Inactive-(advisory" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="25" letter-spacing="1.085357">
+                    <tspan x="60.5" y="65" fill="#000000"></tspan>
+                    <tspan x="60.5" y="90" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold" fill="#000000">●</tspan>
+                    <tspan x="71.991607" y="90" font-family="Montserrat-Bold, Montserrat" font-weight="bold" fill="#000000"> </tspan>
+                    <tspan x="78.170964" y="90" fill="#000000">Inactive (</tspan>
+                    <tspan x="174.074534" y="90" font-family="Montserrat-SemiBoldItalic, Montserrat" font-style="italic" fill="#000000">advisory</tspan>
+                    <tspan x="262.19139" y="90" fill="#000000">) Body</tspan>
+                    <tspan x="60.5" y="115" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold" fill="#000000">●</tspan>
+                    <tspan x="71.991607" y="115" font-family="Montserrat-Bold, Montserrat" font-weight="bold" fill="#000000"> </tspan>
+                    <tspan x="78.170964" y="115" fill="#000000">Former global members transition</tspan>
+                    <tspan x="60.5" y="140" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold" fill="#6C96B8">● </tspan>
+                    <tspan x="79.0095812" y="140" fill="#000000">into advisors</tspan>
+                </text>
+                <text id="PyLadies-Advisors" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.547142" fill="#000000">
+                    <tspan x="102.239722" y="44.5">PyLadies  Advisors</tspan>
+                    <tspan x="233.5" y="73.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                    <tspan x="233.5" y="92.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Projects" transform="translate(826.000000, 210.000000)">
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="482.1" width="460" height="86.4" rx="26"></rect>
+            <text id="Tech" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.547142" fill="#000000">
+                <tspan x="286.741716" y="533.3">Tech</tspan>
+                <tspan x="352.258284" y="533.3" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                <tspan x="319.5" y="562.3" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="361.7" width="460" height="86.4" rx="26"></rect>
+            <text id="Marketing-&amp;-Branding" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.447142" fill="#000000">
+                <tspan x="165.98458" y="410.9">Marketing &amp; Branding</tspan>
+                <tspan x="473.01542" y="410.9" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.831428"></tspan>
+                <tspan x="319.5" y="439.9" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.831428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="241.3" width="460" height="86.4" rx="26"></rect>
+            <text id="Code-of-Conduct" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.247142" fill="#000000">
+                <tspan x="204.798435" y="290.5">Code of Conduct</tspan>
+                <tspan x="434.201565" y="290.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.631428"></tspan>
+                <tspan x="319.5" y="319.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.631428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="120.9" width="460" height="86.4" rx="26"></rect>
+            <text id="Resources:-Onboardin" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.8471424" fill="#000000">
+                <tspan x="242.236288" y="157.1">Resources:</tspan>
+                <tspan x="132.070725" y="186.1" font-family="Montserrat-BoldItalic, Montserrat" font-size="20" font-style="italic" letter-spacing="1.039285">Onboarding &amp; Chapter Materials</tspan>
+                <tspan x="506.929275" y="186.1" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                <tspan x="319.5" y="210.1" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="0.5" width="460" height="86.4" rx="26"></rect>
+            <text id="Finance" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.8471424" fill="#000000">
+                <tspan x="263.235002" y="49.2">Finance</tspan>
+                <tspan x="375.764998" y="49.2" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                <tspan x="319.5" y="78.2" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+            </text>
+            <g id="ouput-bracket" transform="translate(0.500000, 0.000000)" fill="url(#linearGradient-3)" fill-rule="nonzero">
+                <path d="M0,293.850004 L0,289.31178 C12.1752544,282.504444 17.3263235,251.871432 17.3263235,208.758304 L17.3263235,95.3027039 C17.3263235,61.2660239 19.6677186,37.440348 24.3505087,22.69112 C29.0332989,7.94189199 38.8671582,1.134556 52.9155286,0 L52.9155286,9.07644799 C36.0574841,20.422008 36.0574841,66.9388039 36.0574841,90.7644799 L36.0574841,204.22008 C36.0574841,248.467764 33.24781,276.831664 18.7311606,291.580892" id="a"></path>
+                <path d="M0,583.212584 L0,578.67436 C12.1752544,571.867024 17.3263235,541.234012 17.3263235,498.120884 L17.3263235,384.665285 C17.3263235,350.628605 19.6677186,326.802929 24.3505087,312.053701 C29.0332989,297.304473 38.8671582,290.497137 52.9155286,289.362581 L52.9155286,298.439029 C36.0574841,309.784589 36.0574841,356.301385 36.0574841,380.127061 L36.0574841,493.58266 C36.0574841,537.830344 33.24781,566.194244 18.7311606,580.943472" id="a" transform="translate(26.457764, 436.287582) scale(1, -1) translate(-26.457764, -436.287582) "></path>
+            </g>
+        </g>
+        <g id="Aknowledgements" transform="translate(943.000000, 873.000000)" font-family="Montserrat-SemiBoldItalic, Montserrat" font-size="20" font-style="italic" font-weight="500" letter-spacing="0.939285">
+            <text id="Project-Based-from-P" fill="#000000">
+                <tspan x="1.9032275" y="19">Project Based from PyCon 2019 Meeting</tspan>
+            </text>
+            <text id="Inspiration-from-the">
+                <tspan x="0.8925125" y="50" fill="#000000">Inspiration from the </tspan>
+                <tspan x="235.637497" y="50" font-family="Montserrat-BoldItalic, Montserrat" font-weight="bold" fill="#65A9B6">R Ladies Group</tspan>
+            </text>
+        </g>
+        <text id="(6-two-year-terms,-3" font-family="Montserrat-SemiBoldItalic, Montserrat" font-size="24" font-style="italic" font-weight="500" letter-spacing="1" fill="#000000">
+            <tspan x="182.412" y="102">(6 two-year terms, 3 one-year terms)</tspan>
+        </text>
+    </g>
+</svg>
