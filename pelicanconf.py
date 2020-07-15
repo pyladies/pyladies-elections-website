@@ -41,14 +41,24 @@ HERO = [
     {
         "image": "/images/hero/pyladies_taiwan.jpg",
         # for multilanguage support, create a simple dict
-        "title": {"en": "What is the PyLadies Global Council?", "es": "Algo especial",},
+        "title": {
+            "en": "What is the PyLadies Global Council?",
+            "es": "¿Qué es el Consejo Global de PyLadies?",
+        },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
             "en": "The global leadership team for PyLadies.",
-            "es": "Algo especial compartir con el publico",
+            "es": "El equipo de liderazgo global de PyLadies",
         },
         "links": [
-            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/history.html", "text": "History"}
+            {
+                "icon": "icon-code",
+                "url": "https://elections.pyladies.com/pages/history.html",
+                "text": {
+                    "en": "History",
+                    "es": "Historia"
+                }
+            }
         ],
     },
     {
@@ -62,11 +72,21 @@ HERO = [
     {
         "image": "/images/hero/pyladies_auction_2019.jpg",
         # keep it a string if you dont need multiple languages
-        "title": "Who is the PyLadies Global Council?",
+        "title": {
+            "en": "Who is the PyLadies Global Council?",
+            "es": "¿Quién es el Consejo Global de PyLadies?"
+        },
         # keep it a string if you dont need multiple languages
         "text": "",
         "links": [
-            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/council.html", "text": "Meet the Council"}
+            {
+                "icon": "icon-code",
+                "url": "https://elections.pyladies.com/pages/council.html",
+                "text": {
+                    "en": "Meet the Council",
+                    "es": "Conoce al Consejo"
+                },
+         }
         ],
     },
     {
@@ -79,10 +99,20 @@ HERO = [
     },
     {
         "image": "/images/hero/pyladies_brasil.jpg",
-        "title": "How is the PyLadies Global Council selected?",
+        "title": {
+            "en": "How is the PyLadies Global Council selected?",
+            "es": "¿Como se selecciona el Consejo Global de PyLadies?"
+        },
         "text": "Register to vote!",
         "links": [
-            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/vote.html", "text": "Vote"}
+            {
+                "icon": "icon-code",
+                "url": "https://elections.pyladies.com/pages/vote.html",
+                "text": {
+                    "en": "Vote",
+                    "es": "Vota"
+                }
+            }
         ],
     },
     {
@@ -95,10 +125,20 @@ HERO = [
     },
     {
         "image": "/images/hero/pyladies_recife_brasil.jpg",
-        "title": "Would you like to join the PyLadies Global Council?",
+        "title": {
+            "en": "Would you like to join the PyLadies Global Council?",
+            "es": "¿Quieres unirte al Consejo Global de PyLadies?"
+        },
         "text": "We need you!",
         "links": [
-            {"icon": "icon-code", "url": "https://elections.pyladies.com/pages/apply.html", "text": "Apply today!"}
+            {
+                "icon": "icon-code",
+                "url": "https://elections.pyladies.com/pages/apply.html",
+                "text": {
+                    "en": "Apply today!",
+                    "es": "¡Aplica hoy!"
+                },
+            }
         ],
     },
     {
