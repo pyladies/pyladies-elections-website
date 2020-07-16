@@ -7,7 +7,7 @@ _Please document the following. We will aim to be as timely as possible in proce
 
 ## Describe the changes this pull request includes
 
-##  Does your pull request pass the `netlify/pyladies/deploy-preview` check?
+##  Does your pull request pass the `netlify/pyladies-elections/deploy-preview` check?
 <!--
 Example of response:
 
