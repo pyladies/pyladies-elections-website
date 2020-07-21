@@ -30,7 +30,8 @@ ARTICLE_PAGES = ["blog/en"]
 
 # i18n
 I18N_SUBSITES = {
-    "es": {"PAGE_PATHS": ["pages/es"], "ARTICLE_PATHS": ["blog/es"], "LOCALE": "es_ES"}
+    "es": {"PAGE_PATHS": ["pages/es"], "ARTICLE_PATHS": ["blog/es"], "LOCALE": "es_ES"},
+    "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"}
 }
 
 # logo path, needs to be stored in PATH Setting
@@ -44,11 +45,13 @@ HERO = [
         "title": {
             "en": "What is the PyLadies Global Council?",
             "es": "¿Qué es el Consejo Global de PyLadies?",
+            "pt": "O que é o Conselho Global do PyLadies?",
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
             "en": "The global leadership team for PyLadies.",
             "es": "El equipo de liderazgo global de PyLadies",
+            "pt": "O time de liderança global do PyLadies"
         },
         "links": [
             {
@@ -56,7 +59,8 @@ HERO = [
                 "url": "https://elections.pyladies.com/pages/history.html",
                 "text": {
                     "en": "History",
-                    "es": "Historia"
+                    "es": "Historia",
+                    "pt":"História"
                 }
             }
         ],
@@ -74,7 +78,8 @@ HERO = [
         # keep it a string if you dont need multiple languages
         "title": {
             "en": "Who is the PyLadies Global Council?",
-            "es": "¿Quién es el Consejo Global de PyLadies?"
+            "es": "¿Quién es el Consejo Global de PyLadies?",
+            "pt": "Quem faz parte do Conselho Global do PyLadies?"
         },
         # keep it a string if you dont need multiple languages
         "text": "",
@@ -84,7 +89,8 @@ HERO = [
                 "url": "https://elections.pyladies.com/pages/council.html",
                 "text": {
                     "en": "Meet the Council",
-                    "es": "Conoce al Consejo"
+                    "es": "Conoce al Consejo",
+                    "pt": "Conheça o Conselho!"
                 },
          }
         ],
@@ -101,7 +107,8 @@ HERO = [
         "image": "/images/hero/pyladies_brasil.jpg",
         "title": {
             "en": "How is the PyLadies Global Council selected?",
-            "es": "¿Como se selecciona el Consejo Global de PyLadies?"
+            "es": "¿Como se selecciona el Consejo Global de PyLadies?",
+            "pt": "Como é a seleção do Conselho Global do PyLadies?"
         },
         "text": "Register to vote!",
         "links": [
@@ -110,7 +117,8 @@ HERO = [
                 "url": "https://elections.pyladies.com/pages/vote.html",
                 "text": {
                     "en": "Vote",
-                    "es": "Vota"
+                    "es": "Vota",
+                    "pt": "Vote"
                 }
             }
         ],
@@ -127,7 +135,8 @@ HERO = [
         "image": "/images/hero/pyladies_recife_brasil.jpg",
         "title": {
             "en": "Would you like to join the PyLadies Global Council?",
-            "es": "¿Quieres unirte al Consejo Global de PyLadies?"
+            "es": "¿Quieres unirte al Consejo Global de PyLadies?",
+            "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?"
         },
         "text": "We need you!",
         "links": [
@@ -136,7 +145,8 @@ HERO = [
                 "url": "https://elections.pyladies.com/pages/apply.html",
                 "text": {
                     "en": "Apply today!",
-                    "es": "¡Aplica hoy!"
+                    "es": "¡Aplica hoy!",
+                    "pt": "Aplique hoje!"
                 },
             }
         ],
@@ -164,7 +174,7 @@ ABOUT = {
     "image": "/images/pyladies_refresh.png",
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
-    "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies"},
+    "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies", "pt": "Saiba mais sobre o PyLadies"},
     "link": "http://pyladies.com",
     # the address is also taken for google maps
     # "address": "Chicago, Illinois",
