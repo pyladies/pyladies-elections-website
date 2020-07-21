@@ -21,11 +21,11 @@ To start you'll need to:
 
    - If you have git 2.11+:
      ```bash
-     git clone --recurse-submodules https://github.com/pyladies/pyladies-elections-website-src
+     git clone --recurse-submodules https://github.com/pyladies/pyladies-elections-website
      ```
    - Otherwise run:
      ```bash
-     git clone --recursive https://github.com/pyladies/pyladies-elections-website-src
+     git clone --recursive https://github.com/pyladies/pyladies-elections-website
      ```
 
 2. Setup and activate a virtual environment:
