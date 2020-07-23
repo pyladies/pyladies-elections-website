@@ -21,11 +21,11 @@ To start you'll need to:
 
    - If you have git 2.11+:
      ```bash
-     git clone --recurse-submodules https://github.com/pyladies/pyladies-elections-website-src
+     git clone --recurse-submodules https://github.com/pyladies/pyladies-elections-website
      ```
    - Otherwise run:
      ```bash
-     git clone --recursive https://github.com/pyladies/pyladies-elections-website-src
+     git clone --recursive https://github.com/pyladies/pyladies-elections-website
      ```
 
 2. Setup and activate a virtual environment:
@@ -106,4 +106,32 @@ $ cd ../
 $ git add pelican-fh5co-marble
 $ git commit -m "Updated submodule"
 $ git push origin feature_branch
+```
+
+## Localizing the website
+
+To add additional languages in the website the following changes are required:
+
+1. `pelicanconf.py`
+
+- `I18N_SUBSITES` dict with a key representing the 2 character language code (e.g. `es` for espanol) and specify:
+  - `PAGE_PATHS` this is the route that will be generated for the content pages e.g. `localhost:8000/pages/es`
+  - `ARTICLE_PATHS` this is the route that will be generated for the articles e.g. `localhost:8000/blog/es`
+  - `LOCALE` with the two language character code and country e.g. `es_ES` 
+- `HERO` list of image dicts:
+  - `title` of each image with the same 2 character language code e.g. `es` for espanol
+  - `links` list of each `text` key with the same 2 character language code e.g. `es` for espanol
+
+2. Add your markdown pages into `content/pages/<LANGUAGE CHARACTER CODE>`. 
+
+3. Each page should include the following metadata, `Title`, `Order`, `Date`, `Icon`, `Summary`, `Lang`, `Slug`. Here is an example the Aplica page in Spanish:
+
+```
+Title: Aplica
+Order: 5
+Date: 2020-04-09 10:30
+Icon: icon-link2
+Summary: Cómo convertirse en miembro del Consejo Global de PyLadies
+Lang: es
+Slug: aplica
 ```
