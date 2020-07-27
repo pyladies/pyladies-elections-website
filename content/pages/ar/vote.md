@@ -2,17 +2,17 @@ Title: تصويت
 Order: 4
 Date: 2020-07-26 19:51
 Icon: icon-link2
-Summary: تفاصيل حول التصويت لأعضاء مجلس PyLadies العالمي
+Summary: تفاصيل حول التصويت لأعضاء مجلس باي لييديز العالمي
 Lang: ar
 Slug: تصويت
 
-## التصويت لمجلس PyLadies العالمي
+## التصويت لمجلس باي لييديزالعالمي
 
 ### من يستطيع التصويت
 
-أي عضو مسجل في PyLadies.
+أي عضو مسجل في باي لييديز.
 
-اعتبارًا من اليوم ، لدينا تسجيل متاح في:
+اعتبارًا من اليوم ، لدينا تسجيل متاح في
 
 - [إنجليزي](https://forms.gle/f3M4JUzA7JH48Swo8)
 - [الصينية - الماندرين](https://docs.google.com/forms/d/e/1F[IpQLSfUMzknSnq55KRpDYuJh2dWUt5r3hjvete-2jHgqSgSWWTo-w/viewform?usp=sf_link)
