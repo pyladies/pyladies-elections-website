@@ -165,7 +165,7 @@ HERO = [
                     "en": "Apply today!",
                     "es": "¡Aplica hoy!",
                     "pt": "Aplique hoje!",
-                    "en": "!سجل اليوم",
+                    "ar": "!سجل اليوم",
                     "fr": "Postulez dès aujourd'hui!"
                 },
             }
