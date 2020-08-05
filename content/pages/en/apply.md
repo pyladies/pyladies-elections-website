@@ -42,7 +42,7 @@ Interviews will be conducted by the PyLadies Global Advisory group -- a group of
 
 ### Apply for Appointment
 
-Any self-identifying PyLadies member can propose themselves for the council, provided they meet the requirements listed below. If you are nominating another person for appointment, that individual must be a self-identifying PyLadies member and their consent will be required (_e.g. an email sent to the person and they consent to participate_).  
+Any self-identifying PyLadies member can propose themselves for the council, provided they meet the requirements listed below. If you are nominating another person for appointment, that individual must be a self-identifying PyLadies member and their consent will be required fill this form to [nominate someone](https://forms.gle/XCdwssUQn4ukZpzP8).  
 
 
 #### Requirements to consider:

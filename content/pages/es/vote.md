@@ -25,7 +25,7 @@ Si te gustaría ver el registro en otro lenguaje por favor pidelo por medio de [
 
 ### Cómo puedo votar?
 
-Si está registrado [miembro con derecho a voto de PyLadies](members.pyladies.com), debería haber recibido una boleta el 8 de septiembre de 2020 o cerca de Aios de Helios con detalles sobre cómo emitir su voto. La votación se cierra el 18 de septiembre de 2020 AoE. Si no puede encontrar el correo electrónico, busque en su bandeja de entrada y también verifique en su correo no deseado la palabra "helios". Si todavía falta su boleta, contáctenos en el canal PyLadies Slack in # project-elecciones.
+Si está registrado [miembro con derecho a voto de PyLadies](https://members.pyladies.com), debería haber recibido una boleta el 8 de septiembre de 2020 o cerca de Aios de Helios con detalles sobre cómo emitir su voto. La votación se cierra el 18 de septiembre de 2020 AoE. Si no puede encontrar el correo electrónico, busque en su bandeja de entrada y también verifique en su correo no deseado la palabra "helios". Si todavía falta su boleta, contáctenos en el canal PyLadies Slack in # project-elecciones.
 
 [img que muestra la boleta en la bandeja de entrada]
 
@@ -33,4 +33,4 @@ Una vez que inicie sesión en Helios, asegúrese de seguir el proceso hasta que 
 
 [la imagen que muestra el voto ha sido exitosa]
 
-* Debe ser una membresía actual y no ha expirado al 31 de agosto de 2020 AoE
+* Debe ser una membresía actual y no ha expirado al 31 de Agosto de 2020 AoE
