@@ -26,4 +26,13 @@ on the [GitHub issue](https://github.com/pyladies/global-organizing/issues/54).
 
 
 ### How Do I Vote?
-  - Text Explaining the Heilos system
+
+If you are a registered [PyLadies voting member](members.pyladies.com), you should have received a ballot on or around September 8, 2020 AoE from Helios with details on how to cast your vote. Voting closes on September 18, 2020 AoE. If you cannot find the email, please search your inbox and also check your spam for the word "helios". If you are still missing your ballot, contact us in the PyLadies Slack in #project-elections channel.
+
+[img that shows the ballot in inbox]
+
+Once you login to Helios, be sure to follow the process until you see "Congratulations, your vote has been successfully cast!".
+
+[image showing vote has been successful]
+
+* Must be a current membership and not expired as of August 31, 2020 AoE 

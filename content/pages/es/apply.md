@@ -27,7 +27,7 @@ Cualquier persona que se identifique como miembro de PyLadies puede declarar su 
 - Razonablemente responsiva por medio de email, GitHub y Slack
 - Miembro de PyLadies con al menos 2 años de experiencia participando en la comunidad
 
-Declararse como candidata para la elección y completar el formato de aplicación [aquí]().
+Declararse como candidata para la elección y completar el formato de aplicación [aquí](https://forms.gle/TqNto2rVfA5z8m5z5).
 
 
 
@@ -44,7 +44,7 @@ Las entrevistas serán conducidas por el grupo de consultoría de PyLadies Globa
 
 ### Aplicar para la Nominación
 
-Cualquier persona que se identifique como miembro de PyLadies puede proponerse a sí misma para el consejo, una vez que provea los requerimientos que se listan abajo. Si tu estas nominando a otra persona, esa persona debe identificarse como miembro de PyLadies y su consentimiento será requerido (_ej. Un email enviado por la persona donde describe su consentimiento para participaran_).  
+Cualquier persona que se identifique como miembro de PyLadies puede proponerse a sí misma para el consejo, una vez que provea los requerimientos que se listan abajo. Si tu estas nominando a otra persona, esa persona debe identificarse como miembro de PyLadies y su consentimiento será requerido llenar este formulario para [nominar a alguien](https://forms.gle/XCdwssUQn4ukZpzP8).  
 
 
 #### Requerimientos para ser considerada:
@@ -54,4 +54,4 @@ Cualquier persona que se identifique como miembro de PyLadies puede proponerse a
 - Razonablemente responsiva por medio de email, GitHub y Slack
 - Miembro de PyLadies con al menos 2 años de experiencia participando en la comunidad
 
-Para aplicar o nominar a alguien para los asientos abiertos, es necesario llenar el formato de registro/nominación [aquí]().
+Para nominar a alguien para los asientos abiertos es necesario llenar el formato de nominación [aquí](https://forms.gle/63WZbDvEDwq6K8rV8). 
