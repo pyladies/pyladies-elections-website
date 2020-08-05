@@ -47,14 +47,14 @@ HERO = [
             "en": "What is the PyLadies Global Council?",
             "es": "¿Qué es el Consejo Global de PyLadies?",
             "pt": "O que é o Conselho Global do PyLadies?",
-            "ar": "ما هو مجلس باي لييديز العالمي؟",
+            "ar": "ما هو مجلس باي لييديز العالمي؟"
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
             "en": "The global leadership team for PyLadies.",
             "es": "El equipo de liderazgo global de PyLadies",
             "pt": "O time de liderança global do PyLadies",
-            "ar": ".فريق القيادة العالمي لباي لييديز",
+            "ar": ".فريق القيادة العالمي لباي لييديز"
         },
         "links": [
             {
@@ -64,7 +64,7 @@ HERO = [
                     "en": "History",
                     "es": "Historia",
                     "pt":"História",
-                    "ar": "التاريخ",
+                    "ar": "التاريخ"
                 }
             }
         ],
@@ -84,7 +84,7 @@ HERO = [
             "en": "Who is the PyLadies Global Council?",
             "es": "¿Quién es el Consejo Global de PyLadies?",
             "pt": "Quem faz parte do Conselho Global do PyLadies?",
-            "ar": "من هو مجلس باي لييديز العالمي؟",
+            "ar": "من هو مجلس باي لييديز العالمي؟"
         },
         # keep it a string if you dont need multiple languages
         "text": "",
@@ -96,7 +96,7 @@ HERO = [
                     "en": "Meet the Council",
                     "es": "Conoce al Consejo",
                     "pt": "Conheça o Conselho!",
-                    "ar": "تعرف على المجلس",
+                    "ar": "تعرف على المجلس"
                 },
          }
         ],
@@ -115,7 +115,7 @@ HERO = [
             "en": "How is the PyLadies Global Council selected?",
             "es": "¿Como se selecciona el Consejo Global de PyLadies?",
             "pt": "Como é a seleção do Conselho Global do PyLadies?",
-            "ar": "كيف يتم اختيار مجلس باي لييديز العالمي؟",
+            "ar": "كيف يتم اختيار مجلس باي لييديز العالمي؟"
         },
         "text": "Register to vote!",
         "links": [
@@ -126,7 +126,7 @@ HERO = [
                     "en": "Vote",
                     "es": "Vota",
                     "pt": "Vote",
-                    "ar": "صوت",
+                    "ar": "صوت"
                 }
             }
         ],
@@ -145,7 +145,7 @@ HERO = [
             "en": "Would you like to join the PyLadies Global Council?",
             "es": "¿Quieres unirte al Consejo Global de PyLadies?",
             "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
-            "ar": "هل ترغب في الانضمام إلى مجلس باي لييديز العالمي؟",
+            "ar": "هل ترغب في الانضمام إلى مجلس باي لييديز العالمي؟"
         },
         "text": "We need you!",
         "links": [
@@ -156,7 +156,7 @@ HERO = [
                     "en": "Apply today!",
                     "es": "¡Aplica hoy!",
                     "pt": "Aplique hoje!",
-                    "en": "!سجل اليوم",
+                    "ar": "!سجل اليوم"
                 },
             }
         ],
