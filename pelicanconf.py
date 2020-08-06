@@ -117,7 +117,9 @@ HERO = [
             "pt": "Como é a seleção do Conselho Global do PyLadies?",
             "ru": "Как избирается глобальная организация PyLadies?"
         },
-        "text": "Register to vote!",
+        "text": {"en": "Register to vote!",
+                 "ru": "Зарегистрируйтесь, чтобы проголосовать!"
+                },
         "links": [
             {
                 "icon": "icon-code",
