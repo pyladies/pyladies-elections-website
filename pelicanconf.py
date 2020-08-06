@@ -31,7 +31,8 @@ ARTICLE_PAGES = ["blog/en"]
 # i18n
 I18N_SUBSITES = {
     "es": {"PAGE_PATHS": ["pages/es"], "ARTICLE_PATHS": ["blog/es"], "LOCALE": "es_ES"},
-    "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"}
+    "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"},
+    "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"}
 }
 
 # logo path, needs to be stored in PATH Setting
@@ -46,12 +47,14 @@ HERO = [
             "en": "What is the PyLadies Global Council?",
             "es": "¿Qué es el Consejo Global de PyLadies?",
             "pt": "O que é o Conselho Global do PyLadies?",
+            "ru": "Что такое глобальная организация PyLadies?",
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
             "en": "The global leadership team for PyLadies.",
             "es": "El equipo de liderazgo global de PyLadies",
-            "pt": "O time de liderança global do PyLadies"
+            "pt": "O time de liderança global do PyLadies",
+            "ru": "Глобальная лидерская PyLadies команда."
         },
         "links": [
             {
@@ -60,7 +63,8 @@ HERO = [
                 "text": {
                     "en": "History",
                     "es": "Historia",
-                    "pt":"História"
+                    "pt":"História",
+                    "ru":"История"
                 }
             }
         ],
@@ -79,7 +83,8 @@ HERO = [
         "title": {
             "en": "Who is the PyLadies Global Council?",
             "es": "¿Quién es el Consejo Global de PyLadies?",
-            "pt": "Quem faz parte do Conselho Global do PyLadies?"
+            "pt": "Quem faz parte do Conselho Global do PyLadies?",
+            "ru": "Кто находится в глобальной организации PyLadies?"
         },
         # keep it a string if you dont need multiple languages
         "text": "",
@@ -90,7 +95,8 @@ HERO = [
                 "text": {
                     "en": "Meet the Council",
                     "es": "Conoce al Consejo",
-                    "pt": "Conheça o Conselho!"
+                    "pt": "Conheça o Conselho!",
+                    "ru": "Познакомьтесь с организацией"
                 },
          }
         ],
@@ -108,9 +114,12 @@ HERO = [
         "title": {
             "en": "How is the PyLadies Global Council selected?",
             "es": "¿Como se selecciona el Consejo Global de PyLadies?",
-            "pt": "Como é a seleção do Conselho Global do PyLadies?"
+            "pt": "Como é a seleção do Conselho Global do PyLadies?",
+            "ru": "Как избирается глобальная организация PyLadies?"
         },
-        "text": "Register to vote!",
+        "text": {"en": "Register to vote!",
+                 "ru": "Зарегистрируйтесь, чтобы проголосовать!"
+                },
         "links": [
             {
                 "icon": "icon-code",
@@ -118,7 +127,8 @@ HERO = [
                 "text": {
                     "en": "Vote",
                     "es": "Vota",
-                    "pt": "Vote"
+                    "pt": "Vote",
+                    "ru": "Голос"
                 }
             }
         ],
@@ -136,7 +146,8 @@ HERO = [
         "title": {
             "en": "Would you like to join the PyLadies Global Council?",
             "es": "¿Quieres unirte al Consejo Global de PyLadies?",
-            "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?"
+            "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
+            "ru": "Хотите присоединиться к глобальной организации PyLadies?"
         },
         "text": "We need you!",
         "links": [
@@ -146,7 +157,8 @@ HERO = [
                 "text": {
                     "en": "Apply today!",
                     "es": "¡Aplica hoy!",
-                    "pt": "Aplique hoje!"
+                    "pt": "Aplique hoje!",
+                    "ru": "Подайте заявку сегодня!"
                 },
             }
         ],
