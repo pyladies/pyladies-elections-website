@@ -31,7 +31,8 @@ ARTICLE_PAGES = ["blog/en"]
 # i18n
 I18N_SUBSITES = {
     "es": {"PAGE_PATHS": ["pages/es"], "ARTICLE_PATHS": ["blog/es"], "LOCALE": "es_ES"},
-    "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"}
+    "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"},
+    "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"}
 }
 
 # logo path, needs to be stored in PATH Setting
@@ -118,7 +119,8 @@ HERO = [
                 "text": {
                     "en": "Vote",
                     "es": "Vota",
-                    "pt": "Vote"
+                    "pt": "Vote",
+                    "ru": "Голос"
                 }
             }
         ],
