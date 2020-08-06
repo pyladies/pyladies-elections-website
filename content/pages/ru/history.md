@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: История глобальной организации PyLadies
 Lang: ru
-Slug: история
+Slug: history
 
 ## История глобальной организации PyLadies
 
