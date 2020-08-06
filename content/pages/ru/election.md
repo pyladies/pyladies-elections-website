@@ -3,7 +3,7 @@ Order: 3
 Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Подробности о выборах в глобальную организацию PyLadies в 2020
-Lang: en
+Lang: ru
 Slug: выборы
 
 ## Глобальная организация PyLadies
