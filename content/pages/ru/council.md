@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Детали о глобальной организации PyLadies, участниках, модели и структуре 
 Lang: ru
-Slug: организация
+Slug: council
 
 ## Глобальная организация PyLadies
 
