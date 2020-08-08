@@ -4,7 +4,7 @@ Date: 2020-07-26 19:43
 Icon: icon-link2
 Summary: تاريخ مجلس باي لييديزالعالمي
 Lang: ar
-Slug: تاريخ
+Slug: history
 
 ## تاريخ مجلس باي لييديزالعالمي
 

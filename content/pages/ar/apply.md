@@ -5,7 +5,7 @@ Icon: icon-link2
 Summary: تفاصيل حول الانضمام إلى عضوية
  المجلس باي ليديز العالمي
 Lang: ar
-Slug: تطبيق
+Slug: apply
 
 **NB:** PyLadies == باي ليديز
 
