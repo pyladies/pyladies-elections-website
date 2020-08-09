@@ -28,10 +28,7 @@ Qualquer membro autoidentificável com o PyLadies pode se candidatar para o cons
 - Razoavelmente responsivo em email, GitHub e Slack
 - Membro do PyLadies com pelo menos 2 anos de experiência na comunidade
 
-
-Para declarar sua candidatura para a eleição, preencha o formulário do candidato [aqui] ().
-
-
+Para declarar sua candidatura para a eleição, preencha o formulário do candidato [aqui](https://forms.gle/TqNto2rVfA5z8m5z5).
 
 ## Quero me inscrever para uma entrevista/nomeação
 
@@ -44,7 +41,7 @@ Enquanto a votação acontece para cadeiras da eleição, os pedidos de nomeaç�
 As entrevistas serão conduzidas pelo grupo Consultivo Global do PyLadies - um grupo de organizadoreas e partes interessadas experientes do PyLadies. Esse mesmo grupo analisará os resultados das eleições e selecionará candidatos apropriados para preencher vagas abertas.
 
 ### Aplicar
-Qualquer membro autoidentificável com o PyLadies pode se nomear para o conselho, desde que preencha os requisitos abaixo. Se nomear outra pessoa, essa pessoa deve ser um membro do PyLadies e seu consentimento será necessário (por exemplo, _um email enviado à pessoa e ela concorda em participar_).
+Qualquer membro autoidentificável com o PyLadies pode se nomear para o conselho, desde que preencha os requisitos abaixo. Se nomear outra pessoa, essa pessoa deve ser um membro do PyLadies e seu consentimento será necessário preencha este formulário para [nomear alguém](https://forms.gle/XCdwssUQn4ukZpzP8).
 
 
 ####Requisitos  a serem considerados:
@@ -54,4 +51,6 @@ Qualquer membro autoidentificável com o PyLadies pode se nomear para o conselho
 - Razoavelmente responsivo em email, GitHub e Slack
 - Membro do PyLadies com pelo menos 2 anos de experiência na comunidade
 
-Para candidatar-se ou indicar alguém para nomeação para as cadeiras abertas, preencha o formulário de inscrição/ indicação [aqui] ().
+Para candidatar-se ou indicar alguém para nomeação para as cadeiras abertas, preencha o formulário de inscrição/ indicação [aqui](https://forms.gle/63WZbDvEDwq6K8rV8).
+
+

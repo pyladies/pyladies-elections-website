@@ -18,8 +18,9 @@ Slug: eleição
 - Data de término da votação: 18 de setembro de 2020 AoE
 
 ### Registre-se como candidata à eleição
-As interessadas em declarar sua candidatura podem fazê-lo na [página de inscrição] (http://elections.pyladies.com/pages/apply.html).
+As interessadas em declarar sua candidatura podem fazê-lo na [página de inscrição](http://elections.pyladies.com/pages/apply.html).
 
 
 ### Declarando vencedores
-_ Nova seção adicionada para declarar como as vencedoras da votação são determinadas.
+
+No caso de uma eleição para o Conselho Global do PyLadies, os N candidatos mais votados são aceitos com base no número de vagas nessa eleição, desde que, com os N candidatos, não mais de 33% do Conselho seja do mesmo país de residência. Se houver um empate para o enésimo lugar, existe um script que pode [ser usado para desempatar chamado break-ties.py](https://github.com/pyladies/pyladies-council-election#in-the-event-of-a-tie).
