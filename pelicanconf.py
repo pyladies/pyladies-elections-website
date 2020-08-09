@@ -48,15 +48,15 @@ HERO = [
             "en": "What is the PyLadies Global Council?",
             "es": "¿Qué es el Consejo Global de PyLadies?",
             "pt": "O que é o Conselho Global do PyLadies?",
-            "ar": "ما هو مجلس باي لييديز العالمي؟"
-            "ru": "Что такое глобальная организация PyLadies?",
+            "ar": "ما هو مجلس باي لييديز العالمي؟",
+            "ru": "Что такое глобальная организация PyLadies?"
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
             "en": "The global leadership team for PyLadies.",
             "es": "El equipo de liderazgo global de PyLadies",
             "pt": "O time de liderança global do PyLadies",
-            "ar": ".فريق القيادة العالمي لباي لييديز"
+            "ar": ".فريق القيادة العالمي لباي لييديز",
             "ru": "Глобальная лидерская PyLadies команда."
         },
         "links": [
