@@ -27,9 +27,7 @@ Any self-identifying PyLadies member can declare candidacy for the council elect
 - Reasonably responsive on email, GitHub, and Slack
 - A PyLadies member with at least 2 years experience participating in the community 
 
-To declare your candidacy for the election, complete the candidate form [here]().
-
-
+To declare your candidacy for the election, complete the candidate form [here](https://forms.gle/TqNto2rVfA5z8m5z5). 
 
 ## I Want to Apply for an Appointment
 
@@ -44,7 +42,7 @@ Interviews will be conducted by the PyLadies Global Advisory group -- a group of
 
 ### Apply for Appointment
 
-Any self-identifying PyLadies member can propose themselves for the council, provided they meet the requirements listed below. If you are nominating another person for appointment, that individual must be a self-identifying PyLadies member and their consent will be required (_e.g. an email sent to the person and they consent to participate_).  
+Any self-identifying PyLadies member can propose themselves for the council, provided they meet the requirements listed below. If you are nominating another person for appointment, that individual must be a self-identifying PyLadies member and their consent will be required fill this form to [nominate someone](https://forms.gle/XCdwssUQn4ukZpzP8).  
 
 
 #### Requirements to consider:
@@ -54,4 +52,4 @@ Any self-identifying PyLadies member can propose themselves for the council, pro
 - Reasonably responsive on email, GitHub, and Slack
 - A PyLadies member with at least 2 years experience participating in the community 
 
-To apply or nominate for the open seats, fill out the appointment registration/nomination form [here]().
+To nominate for an open seat fill out the form [here](https://forms.gle/63WZbDvEDwq6K8rV8).
