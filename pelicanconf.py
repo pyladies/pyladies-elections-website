@@ -33,7 +33,7 @@ I18N_SUBSITES = {
     "es": {"PAGE_PATHS": ["pages/es"], "ARTICLE_PATHS": ["blog/es"], "LOCALE": "es_ES"},
     "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"},
     "ar": {"PAGE_PATHS": ["pages/ar"], "ARTICLE_PATHS": ["blog/ar"], "LOCALE": "ar_AR"},
-    "fr": {"PAGE_PATHS": ["pages/fr"], "ARTICLE_PATHS": ["blog/fr"], "LOCALE": "es_FR"}
+    "fr": {"PAGE_PATHS": ["pages/fr"], "ARTICLE_PATHS": ["blog/fr"], "LOCALE": "fr_FR"},
     "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"}
 }
 
