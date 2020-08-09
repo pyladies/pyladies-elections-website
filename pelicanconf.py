@@ -50,8 +50,8 @@ HERO = [
             "es": "¿Qué es el Consejo Global de PyLadies?",
             "pt": "O que é o Conselho Global do PyLadies?",
             "ar": "ما هو مجلس باي لييديز العالمي؟",
-            "fr": "Qu'est-ce que le Conseil mondial des PyLadies ?"
-            "ru": "Что такое глобальная организация PyLadies?",
+            "fr": "Qu'est-ce que le Conseil mondial des PyLadies ?",
+            "ru": "Что такое глобальная организация PyLadies?"
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
@@ -93,7 +93,7 @@ HERO = [
             "es": "¿Quién es el Consejo Global de PyLadies?",
             "pt": "Quem faz parte do Conselho Global do PyLadies?",
             "ar": "من هو مجلس باي لييديز العالمي؟",
-            "fr": "Qui est le Conseil mondial des PyLadies ?"
+            "fr": "Qui est le Conseil mondial des PyLadies ?",
             "ru": "Кто находится в глобальной организации PyLadies?"
         },
         # keep it a string if you dont need multiple languages
@@ -107,7 +107,7 @@ HERO = [
                     "es": "Conoce al Consejo",
                     "pt": "Conheça o Conselho!",
                     "ar": "تعرف على المجلس",
-                    "fr": "Rencontrer le Conseil"
+                    "fr": "Rencontrer le Conseil",
                     "ru": "Познакомьтесь с организацией"
                 },
          }
@@ -128,7 +128,7 @@ HERO = [
             "es": "¿Como se selecciona el Consejo Global de PyLadies?",
             "pt": "Como é a seleção do Conselho Global do PyLadies?",
             "ar": "كيف يتم اختيار مجلس باي لييديز العالمي؟",
-            "fr": "Comment le Conseil mondial des PyLadies est-il sélectionné ?"
+            "fr": "Comment le Conseil mondial des PyLadies est-il sélectionné ?",
             "ru": "Как избирается глобальная организация PyLadies?"
         },
         "text": {"en": "Register to vote!",
@@ -143,7 +143,7 @@ HERO = [
                     "es": "Vota",
                     "pt": "Vote",
                     "ar": "صوت",
-                    "fr": "Votez"
+                    "fr": "Votez",
                     "ru": "Голос"
                 }
             }
@@ -164,7 +164,7 @@ HERO = [
             "es": "¿Quieres unirte al Consejo Global de PyLadies?",
             "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
             "ar": "هل ترغب في الانضمام إلى مجلس باي لييديز العالمي؟",
-            "fr": "Souhaitez-vous rejoindre le Conseil mondial PyLadies ?"
+            "fr": "Souhaitez-vous rejoindre le Conseil mondial PyLadies?",
             "ru": "Хотите присоединиться к глобальной организации PyLadies?"
         },
         "text": "We need you!",
@@ -177,7 +177,7 @@ HERO = [
                     "es": "¡Aplica hoy!",
                     "pt": "Aplique hoje!",
                     "ar": "!سجل اليوم",
-                    "fr": "Postulez dès aujourd'hui!"
+                    "fr": "Postulez dès aujourd'hui!",
                     "ru": "Подайте заявку сегодня!"
                 },
             }
