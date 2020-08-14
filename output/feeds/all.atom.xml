@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>PyLadies Global Council</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-07-26T18:35:00-05:00</updated><entry><title>تطبيق</title><link href="/ttbyq.html" rel="alternate"></link><published>2020-07-26T18:35:00-05:00</published><updated>2020-07-26T18:35:00-05:00</updated><author><name>PyLadies</name></author><id>tag:None,2020-07-26:/ttbyq.html</id><summary type="html">&lt;p&gt;تفاصيل حول الانضمام إلى عضوية&lt;/p&gt;</summary><content type="html">&lt;p&gt;المجلس باي ليديز العالمي
 Lang: ar
 Slug: apply&lt;/p&gt;
@@ -39,6 +38,3 @@ Slug: apply&lt;/p&gt;
 &lt;p&gt;للتقديم أو الترشيح للمقاعد المفتوحة ، املأ استمارة التسجيل / 
 [الترشيح للتعيين [هنا
 ()&lt;/p&gt;</content><category term="ar"></category></entry></feed>
-=======
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyLadies Global Council</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-08-04T20:00:47Z</updated></feed>
->>>>>>> main
