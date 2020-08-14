@@ -59,7 +59,7 @@ HERO = [
             "en": "The global leadership team for PyLadies.",
             "es": "El equipo de liderazgo global de PyLadies",
             "pt": "O time de liderança global do PyLadies",
-            "ru": "Глобальная лидерская PyLadies команда."，
+            "ru": "Глобальная лидерская PyLadies команда.",
             "zh-cn": "PyLadies 国际领导团",
             "zh-tw": "PyLadies 國際領導團",
         },
