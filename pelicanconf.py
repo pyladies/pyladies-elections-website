@@ -36,7 +36,6 @@ I18N_SUBSITES = {
     "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"},
     "zh-cn": {"PAGE_PATHS": ["pages/zh-cn"], "ARTICLE_PATHS": ["blog/zh-cn"], "LOCALE": "zh_CN"},
     "zh-tw": {"PAGE_PATHS": ["pages/zh-tw"], "ARTICLE_PATHS": ["blog/zh-tw"], "LOCALE": "zh_TW"},
-    "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"}
 }
 
 # logo path, needs to be stored in PATH Setting
@@ -55,7 +54,6 @@ HERO = [
             "ru": "Что такое глобальная организация PyLadies?",
             "zh-cn": "什么是PyLadies 国际委员会?",
             "zh-tw": "什麽是PyLadies 國際委員會?",
-            "ru": "Что такое глобальная организация PyLadies?"
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
@@ -66,7 +64,6 @@ HERO = [
             "ru": "Глобальная лидерская PyLadies команда.",
             "zh-cn": "PyLadies 国际领导团",
             "zh-tw": "PyLadies 國際領導團",
-            "ru": "Глобальная лидерская PyLadies команда."
         },
         "links": [
             {
@@ -80,7 +77,6 @@ HERO = [
                     "ru":"История",
                     "zh-cn": "历史",
                     "zh-tw": "歷史",
-                    "ru":"История"
                 }
             }
         ],
@@ -104,7 +100,6 @@ HERO = [
             "ru": "Кто находится в глобальной организации PyLadies?",
             "zh-cn": "谁是PyLadies 国际委员会?",
             "zh-cn": "誰是PyLadies 國際委員會?",
-            "ru": "Кто находится в глобальной организации PyLadies?"
         },
         # keep it a string if you dont need multiple languages
         "text": "",
@@ -120,7 +115,6 @@ HERO = [
                     "ru": "Познакомьтесь с организацией",
                     "zh-cn": "遇合委员会",
                     "zh-tw": "遇合委員會",
-                    "ru": "Познакомьтесь с организацией"
                 },
          }
         ],
@@ -143,7 +137,6 @@ HERO = [
             "ru": "Как избирается глобальная организация PyLadies?",
             "zh-cn": "国际委员会是如何推选呢?",
             "zh-tw": "國際委員會是如何推選呢?",
-            "ru": "Как избирается глобальная организация PyLadies?"
         },
         "text": {"en": "Register to vote!",
                  "ar": "!سجل للتصويت",
@@ -163,7 +156,6 @@ HERO = [
                     "ru": "Голос",
                     "zh-cn": "投票",
                     "zh-tw": "投票",
-                    "ru": "Голос"
                 }
             }
         ],
@@ -186,7 +178,6 @@ HERO = [
             "ru": "Хотите присоединиться к глобальной организации PyLadies?",
             "zh-cn": "想参加 PyLadies 国际委员会吗?",
             "zh-tw": "想參加 PyLadies 國際委員會嗎?",
-            "ru": "Хотите присоединиться к глобальной организации PyLadies?"
         },
         "text": "We need you!",
         "links": [
@@ -201,7 +192,6 @@ HERO = [
                     "ru": "Подайте заявку сегодня!",
                     "zh-cn": "立即参加!",
                     "zh-tw": "立即參加!",
-                    "ru": "Подайте заявку сегодня!"
                 },
             }
         ],
