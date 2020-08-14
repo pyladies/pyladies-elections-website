@@ -3,7 +3,7 @@ Order: 1
 Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: PyLadies 国际委员会历史
-Lang: zh-tw
+Lang: zh-cn
 Slug: history
 
 ## PyLadies 国际委员会历史

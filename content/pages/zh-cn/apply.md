@@ -3,7 +3,7 @@ Order: 5
 Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: 资讯关于如何成为 PyLadies 国际委员会成员
-Lang: zh－cn
+Lang: zh-cn
 Slug: apply
 
 ## 委员会组成
