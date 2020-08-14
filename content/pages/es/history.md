@@ -1,33 +1,33 @@
-Title: History
+Title: Historia
 Order: 1
 Date: 2020-04-09 10:30
 Icon: icon-link2
-Summary: History of the PyLadies Global Council
+Summary: Historia del Consejo Global de PyLadies
 Lang: es
-Slug: history
+Slug: historia
 
-## History of the PyLadies Global Council
+## Historia del Consejo Global de PyLadies
 
-### The beginnings
+### Los Comienzos
 
 <div class="float-center container">
   <img src="/images/about/future-of-us.png"
      alt="PyLadies Organizers at PyCon US 2019" width="400px" />
 </div>
 
-At PyCon US 2019, several PyLadies organizers and other key stakeholders met to discuss the future of [PyLadies](https://github.com/pyladies/global-organizing/blob/master/notes/2019/06_05_2019.md">minutes). After 10 years of existence, PyLadies had grown from a small collection of United States based chapters to a vibrant international community.
+En PyCon US 2019, varias organizadoras de PyLadies y otras representantes importantes se reunieron para discutir sobre el futuro de [PyLadies](https://github.com/pyladies/global-organizing/blob/master/notes/2019/06_05_2019.md">minutes). Luego de 10 años de existencia, la comunidad ha crecido de una pequeña colección de grupos basados en Estados Unidos a una vibrante comunidad a nivel internacional.
 
-At the Future of Us workshop, participants discussed several topics including:
+En el taller "the Future of Us", las participantes discutieron sobre diversos temas incluyendo:
 
-- organizational priorities
-- resource management
-- fundraising
+- prioridades organizacionales
+- manejo de recursos
+- levantamiento de fondos
 
-However, the largest challenge the workshop identified was the need for a centralized leadership body. Thus the Global Council was born.
+Sin embargo, el reto más importante que se identificó en el taller fue la necesidad de centralizar el cuerpo de liderazgo. Por ello el Consejo Global nació.
 
-###  Planning for the future
+###  Planeando para el futuro
 
 <div class="float-center container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KRwpY2TixAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-To learn more about the history of the PyLadies Global Council, you can see the 2020 [PyCon USA talk: 9 Years of PyLadies: Lessons Learned and What Comes Next](https://www.youtube.com/watch?v=KRwpY2TixAs).
+Para aprender más sobre la historia de el Consejo Global de PyLadies, puedes ver la charla de 2020 [en PyCon USA: 9 Years of PyLadies: Lessons Learned and What Comes Next](https://www.youtube.com/watch?v=KRwpY2TixAs).
 

@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Detalhes sobre o modelo, estrutura e membros do Conselho Global do PyLadies
 Lang: pt
-Slug: conselho global
+Slug: conselho_global
 
 ## Conselho Global do PyLadies
 
