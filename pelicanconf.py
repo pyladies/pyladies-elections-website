@@ -34,13 +34,9 @@ I18N_SUBSITES = {
     "pt": {"PAGE_PATHS": ["pages/pt"], "ARTICLE_PATHS": ["blog/pt"], "LOCALE": "pt_PT"},
     "ar": {"PAGE_PATHS": ["pages/ar"], "ARTICLE_PATHS": ["blog/ar"], "LOCALE": "ar_AR"},
     "fr": {"PAGE_PATHS": ["pages/fr"], "ARTICLE_PATHS": ["blog/fr"], "LOCALE": "fr_FR"},
-<<<<<<< HEAD
-    "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"},
     "zh-cn": {"PAGE_PATHS": ["pages/zh-cn"], "ARTICLE_PATHS": ["blog/zh-cn"], "LOCALE": "zh_CN"},
-    "zh-tw": {"PAGE_PATHS": ["pages/zh-tw"], "ARTICLE_PATHS": ["blog/zh-tw"], "LOCALE": "zh_TW"}
-=======
+    "zh-tw": {"PAGE_PATHS": ["pages/zh-tw"], "ARTICLE_PATHS": ["blog/zh-tw"], "LOCALE": "zh_TW"},
     "ru": {"PAGE_PATHS": ["pages/ru"], "ARTICLE_PATHS": ["blog/ru"], "LOCALE": "ru_RU"}
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
 }
 
 # logo path, needs to be stored in PATH Setting
@@ -57,13 +53,9 @@ HERO = [
             "pt": "O que é o Conselho Global do PyLadies?",
             "ar": "ما هو مجلس باي لييديز العالمي؟",
             "fr": "Qu'est-ce que le Conseil mondial des PyLadies ?",
-<<<<<<< HEAD
-            "ru": "Что такое глобальная организация PyLadies?",
             "zh-cn": "什么是PyLadies 国际委员会?",
             "zh-tw": "什麽是PyLadies 國際委員會?",
-=======
             "ru": "Что такое глобальная организация PyLadies?"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
         },
         # img: https://www.flickr.com/photos/turicas/32464219836/in/photolist-QhDetn-RwkZPc-QWSSqb-RsKLkA-QePCCC-RsKBwd-QWTcDm-RkzB9M-RkA6tx-RwmbMV-RwkUhv-QePpy1-RwmgWx-RwmaYk-RsKe7d-RkA5Dg-RsKAA5-QhDkzR-RsJVqG-Rwmape-RkzPfv-RkzNAK-QeNRnN-RwkzGp-RwmyJk-QhDmAD-RhUFmL-sHAnXD-QhCJRT-QhCuSR-RsKB4E-RsK73y-QhDvcB-Rkzjf6-RwkojK-RsKAiw-QeNDXJ-RkzgnT-RkzfL2-QeNwMm-QhCFHZ-QhCwkR-Rwknse-RwkmLz-RhUBNJ-an8mUq-e4nzb1-eu6aTY-pJSyrr-pJRigg
         "text": {
@@ -72,13 +64,9 @@ HERO = [
             "pt": "O time de liderança global do PyLadies",
             "ar": ".فريق القيادة العالمي لباي لييديز",
             "fr": "L'équipe de leadership mondiale des PyLadies.",
-<<<<<<< HEAD
-            "ru": "Глобальная лидерская PyLadies команда.",
             "zh-cn": "PyLadies 国际领导团",
             "zh-tw": "PyLadies 國際領導團",
-=======
             "ru": "Глобальная лидерская PyLadies команда."
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
         },
         "links": [
             {
@@ -90,13 +78,9 @@ HERO = [
                     "pt":"História",
                     "ar": "التاريخ",
                     "fr": "Historique",
-<<<<<<< HEAD
-                    "ru":"История",
                     "zh-cn": "历史",
                     "zh-tw": "歷史",
-=======
                     "ru":"История"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
                 }
             }
         ],
@@ -118,13 +102,9 @@ HERO = [
             "pt": "Quem faz parte do Conselho Global do PyLadies?",
             "ar": "من هو مجلس باي لييديز العالمي؟",
             "fr": "Qui est le Conseil mondial des PyLadies ?",
-<<<<<<< HEAD
-            "ru": "Кто находится в глобальной организации PyLadies?",
             "zh-cn": "谁是PyLadies 国际委员会?",
             "zh-cn": "誰是PyLadies 國際委員會?",
-=======
             "ru": "Кто находится в глобальной организации PyLadies?"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
         },
         # keep it a string if you dont need multiple languages
         "text": "",
@@ -138,13 +118,9 @@ HERO = [
                     "pt": "Conheça o Conselho!",
                     "ar": "تعرف على المجلس",
                     "fr": "Rencontrer le Conseil",
-<<<<<<< HEAD
-                    "ru": "Познакомьтесь с организацией",
                     "zh-cn": "遇合委员会",
                     "zh-tw": "遇合委員會",
-=======
                     "ru": "Познакомьтесь с организацией"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
                 },
          }
         ],
@@ -165,13 +141,9 @@ HERO = [
             "pt": "Como é a seleção do Conselho Global do PyLadies?",
             "ar": "كيف يتم اختيار مجلس باي لييديز العالمي؟",
             "fr": "Comment le Conseil mondial des PyLadies est-il sélectionné ?",
-<<<<<<< HEAD
-            "ru": "Как избирается глобальная организация PyLadies?",
             "zh-cn": "国际委员会是如何推选呢?",
             "zh-tw": "國際委員會是如何推選呢?",
-=======
             "ru": "Как избирается глобальная организация PyLadies?"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
         },
         "text": {"en": "Register to vote!",
                  "ar": "!سجل للتصويت",
@@ -190,13 +162,9 @@ HERO = [
                     "pt": "Vote",
                     "ar": "صوت",
                     "fr": "Votez",
-<<<<<<< HEAD
-                    "ru": "Голос",
                     "zh-cn": "投票",
                     "zh-tw": "投票",
-=======
                     "ru": "Голос"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
                 }
             }
         ],
@@ -216,15 +184,10 @@ HERO = [
             "es": "¿Quieres unirte al Consejo Global de PyLadies?",
             "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
             "ar": "هل ترغب في الانضمام إلى مجلس باي لييديز العالمي؟",
-<<<<<<< HEAD
             "fr": "Souhaitez-vous rejoindre le Conseil mondial PyLadies ?",
             "ru": "Хотите присоединиться к глобальной организации PyLadies?",
             "zh-cn": "想参加 PyLadies 国际委员会吗?",
             "zh-tw": "想參加 PyLadies 國際委員會嗎?",
-=======
-            "fr": "Souhaitez-vous rejoindre le Conseil mondial PyLadies?",
-            "ru": "Хотите присоединиться к глобальной организации PyLadies?"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
         },
         "text": "We need you!",
         "links": [
@@ -237,13 +200,9 @@ HERO = [
                     "pt": "Aplique hoje!",
                     "ar": "!سجل اليوم",
                     "fr": "Postulez dès aujourd'hui!",
-<<<<<<< HEAD
                     "ru": "Подайте заявку сегодня!",
                     "zh-cn": "立即参加!",
                     "zh-tw": "立即參加!"
-=======
-                    "ru": "Подайте заявку сегодня!"
->>>>>>> 47e53ec234e0f5332bf1b5444950260dcf998fff
                 },
             }
         ],
@@ -271,7 +230,8 @@ ABOUT = {
     "image": "/images/pyladies_refresh.png",
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
-    "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies", "pt": "Saiba mais sobre o PyLadies"},
+    "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies", "pt": "Saiba mais sobre o PyLadies",
+    'ar': ".PyLadies تعرف على المزيد حول ", 'fr': "En savoir plus sur PyLadies." },
     "link": "http://pyladies.com",
     # the address is also taken for google maps
     # "address": "Chicago, Illinois",
