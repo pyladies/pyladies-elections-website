@@ -139,6 +139,7 @@ HERO = [
             "zh-tw": "國際委員會是如何推選呢?",
         },
         "text": {"en": "Register to vote!",
+                 "ar": "!سجل للتصويت",
                  "ru": "Зарегистрируйтесь, чтобы проголосовать!",
                  "zh-cn": "注册以便投票!",
                  "zh-tw": "註冊以便投票!",
@@ -218,7 +219,10 @@ ABOUT = {
     "image": "/images/pyladies_refresh.png",
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
-    "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies", "pt": "Saiba mais sobre o PyLadies"},
+    "text": {"en": "Learn more about PyLadies.",
+             "ar": ".PyLadies تعرف على المزيد حول",
+             "es": "Aprende mas de PyLadies", 
+             "pt": "Saiba mais sobre o PyLadies"},
     "link": "http://pyladies.com",
     # the address is also taken for google maps
     # "address": "Chicago, Illinois",
