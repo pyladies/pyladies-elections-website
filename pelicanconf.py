@@ -71,7 +71,7 @@ HERO = [
                     "en": "History",
                     "es": "Historia",
                     "pt":"História",
-                    "ru":"История"，
+                    "ru":"История",
                     "zh-cn": "历史",
                     "zh-tw": "歷史",
                 }
@@ -93,7 +93,7 @@ HERO = [
             "en": "Who is the PyLadies Global Council?",
             "es": "¿Quién es el Consejo Global de PyLadies?",
             "pt": "Quem faz parte do Conselho Global do PyLadies?",
-            "ru": "Кто находится в глобальной организации PyLadies?"，
+            "ru": "Кто находится в глобальной организации PyLadies?",
             "zh-cn": "谁是PyLadies 国际委员会?",
             "zh-cn": "誰是PyLadies 國際委員會?",
         },
@@ -107,7 +107,7 @@ HERO = [
                     "en": "Meet the Council",
                     "es": "Conoce al Consejo",
                     "pt": "Conheça o Conselho!",
-                    "ru": "Познакомьтесь с организацией"，
+                    "ru": "Познакомьтесь с организацией",
                     "zh-cn": "遇合委员会",
                     "zh-tw": "遇合委員會",
                 },
@@ -128,12 +128,12 @@ HERO = [
             "en": "How is the PyLadies Global Council selected?",
             "es": "¿Como se selecciona el Consejo Global de PyLadies?",
             "pt": "Como é a seleção do Conselho Global do PyLadies?",
-            "ru": "Как избирается глобальная организация PyLadies?"，
+            "ru": "Как избирается глобальная организация PyLadies?",
             "zh-cn": "国际委员会是如何推选呢?",
             "zh-tw": "國際委員會是如何推選呢?",
         },
         "text": {"en": "Register to vote!",
-                 "ru": "Зарегистрируйтесь, чтобы проголосовать!"，
+                 "ru": "Зарегистрируйтесь, чтобы проголосовать!",
                  "zh-cn": "注册以便投票!",
                  "zh-tw": "註冊以便投票!",
                 },
@@ -145,7 +145,7 @@ HERO = [
                     "en": "Vote",
                     "es": "Vota",
                     "pt": "Vote",
-                    "ru": "Голос"，
+                    "ru": "Голос",
                     "zh-cn": "投票",
                     "zh-tw": "投票",
                 }
@@ -166,7 +166,7 @@ HERO = [
             "en": "Would you like to join the PyLadies Global Council?",
             "es": "¿Quieres unirte al Consejo Global de PyLadies?",
             "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
-            "ru": "Хотите присоединиться к глобальной организации PyLadies?"，
+            "ru": "Хотите присоединиться к глобальной организации PyLadies?",
             "zh-cn": "想参加 PyLadies 国际委员会吗?",
             "zh-tw": "想參加 PyLadies 國際委員會嗎?",
         },
@@ -179,7 +179,7 @@ HERO = [
                     "en": "Apply today!",
                     "es": "¡Aplica hoy!",
                     "pt": "Aplique hoje!",
-                    "ru": "Подайте заявку сегодня!"，
+                    "ru": "Подайте заявку сегодня!",
                     "zh-cn": "立即参加!",
                     "zh-tw": "立即參加!"
                 },
