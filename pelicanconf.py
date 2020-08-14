@@ -231,7 +231,7 @@ ABOUT = {
     "mail": "info@pyladies.com",
     # keep it a string if you dont need multiple languages
     "text": {"en": "Learn more about PyLadies.", "es": "Aprende mas de PyLadies", "pt": "Saiba mais sobre o PyLadies",
-    'ar': ".PyLadies تعرف على المزيد حول ", 'fr': "En savoir plus sur PyLadies." },
+    "ar": ".PyLadies تعرف على المزيد حول ", "fr": "En savoir plus sur PyLadies." },
     "link": "http://pyladies.com",
     # the address is also taken for google maps
     # "address": "Chicago, Illinois",
