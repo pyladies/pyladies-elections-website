@@ -148,9 +148,9 @@ HERO = [
         "text": {"en": "Register to vote!",
                  "ar": "!سجل للتصويت",
                  "fr": "Inscrivez-vous pour voter!",
-                 "ru": "Зарегистрируйтесь, чтобы проголосовать!",
                  "zh-cn": "注册以便投票!",
                  "zh-tw": "註冊以便投票!",
+                 "ru": "Зарегистрируйтесь, чтобы проголосовать!"
                 },
         "links": [
             {
@@ -185,9 +185,9 @@ HERO = [
             "pt": "Gostaria de se juntar ao Conselho Global do PyLadies?",
             "ar": "هل ترغب في الانضمام إلى مجلس باي لييديز العالمي؟",
             "fr": "Souhaitez-vous rejoindre le Conseil mondial PyLadies ?",
-            "ru": "Хотите присоединиться к глобальной организации PyLadies?",
             "zh-cn": "想参加 PyLadies 国际委员会吗?",
             "zh-tw": "想參加 PyLadies 國際委員會嗎?",
+            "ru": "Хотите присоединиться к глобальной организации PyLadies?"
         },
         "text": "We need you!",
         "links": [
@@ -200,9 +200,9 @@ HERO = [
                     "pt": "Aplique hoje!",
                     "ar": "!سجل اليوم",
                     "fr": "Postulez dès aujourd'hui!",
-                    "ru": "Подайте заявку сегодня!",
                     "zh-cn": "立即参加!",
                     "zh-tw": "立即參加!",
+                    "ru": "Подайте заявку сегодня!"
                 },
             }
         ],
