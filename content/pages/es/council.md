@@ -10,7 +10,7 @@ Slug: consejo global
 
 ### El Modelo
 
-<div class="float-right container">
+<div class="float-center container">
   <img src="/images/council/es_global_council.svg"
      alt="PyLadies governance structure" width="900px" />
 </div>
