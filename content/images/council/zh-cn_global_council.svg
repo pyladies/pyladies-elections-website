@@ -17,7 +17,6 @@
         </linearGradient>
     </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="1454" height="961"></rect>
         <g id="Global-Leadership" transform="translate(117.000000, 38.500000)">
             <path d="M52,107 L566,107 C594.718807,107 618,130.281193 618,159 L618,763 C618,791.718807 594.718807,815 566,815 L52,815 C23.281193,815 3.51703951e-15,791.718807 0,763 L0,159 C-3.51703951e-15,130.281193 23.281193,107 52,107 Z" id="Dotted-Outline" stroke="#EE264D" stroke-width="6" stroke-linecap="round" stroke-dasharray="0,15"></path>
             <text id="国际领导团" font-family="PingFangSC-Semibold, PingFang SC" font-size="30" font-weight="500" letter-spacing="1.5589275" fill="#000000">
@@ -88,9 +87,9 @@
                     <tspan x="92.670964" y="97.5"> </tspan>
                     <tspan x="98.724321" y="97.5" font-family="PingFangSC-Semibold, PingFang SC">闲置（顾问）团体</tspan>
                     <tspan x="251.407177" y="97.5"></tspan>
-                    <tspan x="75" y="122.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">●</tspan>
-                    <tspan x="86.491607" y="122.5" font-family="Montserrat-Bold, Montserrat" font-weight="bold"> </tspan>
-                    <tspan x="92.670964" y="122.5" font-family="PingFangSC-Semibold, PingFang SC">前任全球委员过渡成顾问</tspan>
+                    <tspan x="75" y="122.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">● </tspan>
+                    <tspan x="93.5095812" y="122.5" font-family="Montserrat-Bold, Montserrat" font-weight="bold"> </tspan>
+                    <tspan x="99.6889382" y="122.5" font-family="PingFangSC-Semibold, PingFang SC">前任全球委员过渡成顾问</tspan>
                 </text>
                 <text id="PyLadies顾问" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.547142" fill="#000000">
                     <tspan x="141.69629" y="42.5">PyLadies</tspan>

@@ -17,7 +17,6 @@
         </linearGradient>
     </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="1454" height="961"></rect>
         <g id="Global-Leadership" transform="translate(117.000000, 41.500000)">
             <path d="M52,104 L566,104 C594.718807,104 618,127.281193 618,156 L618,760 C618,788.718807 594.718807,812 566,812 L52,812 C23.281193,812 3.51703951e-15,788.718807 0,760 L0,156 C-3.51703951e-15,127.281193 23.281193,104 52,104 Z" id="Dotted-Outline" stroke="#EE264D" stroke-width="6" stroke-linecap="round" stroke-dasharray="0,15"></path>
             <text id="Leadership-mondial" font-family="Montserrat-Bold, Montserrat" font-size="30" font-weight="bold" letter-spacing="1.5589275" fill="#000000">

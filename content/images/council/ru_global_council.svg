@@ -17,7 +17,6 @@
         </linearGradient>
     </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="1454" height="961"></rect>
         <g id="Global-Leadership" transform="translate(117.000000, 36.500000)">
             <path d="M52,109 L566,109 C594.718807,109 618,132.281193 618,161 L618,765 C618,793.718807 594.718807,817 566,817 L52,817 C23.281193,817 3.51703951e-15,793.718807 0,765 L0,161 C-3.51703951e-15,132.281193 23.281193,109 52,109 Z" id="Dotted-Outline" stroke="#EE264D" stroke-width="6" stroke-linecap="round" stroke-dasharray="0,15"></path>
             <text id="Глобальная-организац" font-family="Raleway-SemiBold, Raleway SemiBold" font-size="40" font-weight="500" letter-spacing="1.07857" fill="#000000">
@@ -25,35 +24,36 @@
             </text>
             <g id="Global-Council" transform="translate(80.500000, 150.000000)">
                 <rect id="Rectangle" stroke="#F5A623" stroke-width="3" fill="#FFD141" opacity="0.591913132" x="0.5" y="0.5" width="456" height="405" rx="55"></rect>
-                <text id="●-9-мест-(6-избирате" font-family="LucidaGrande-Bold, Lucida Grande" font-size="18" font-weight="bold" line-spacing="25" letter-spacing="1.085357" fill="#000000">
-                    <tspan x="47.5" y="138.5">●</tspan>
-                    <tspan x="58.991607" y="138.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="138.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.8153568">9 мест (6 избирательныхб 3 назначенных)</tspan>
-                    <tspan x="414.202301" y="138.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"></tspan>
-                    <tspan x="47.5" y="163.5">●</tspan>
-                    <tspan x="58.991607" y="163.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="163.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Активная лидерская команда</tspan>
-                    <tspan x="310.814206" y="163.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"></tspan>
-                    <tspan x="47.5" y="188.5">●</tspan>
-                    <tspan x="58.991607" y="188.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="188.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Связь с Python Software Foundation</tspan>
-                    <tspan x="354.877136" y="188.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal"></tspan>
-                    <tspan x="47.5" y="213.5">●</tspan>
-                    <tspan x="58.991607" y="213.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="213.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Управляет связью с общественностью </tspan>
-                    <tspan x="389.825066" y="213.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500" letter-spacing="0.82"> </tspan>
-                    <tspan x="47.5" y="238.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">   </tspan>
-                    <tspan x="65.660071" y="238.5" font-family="RobotoCondensed-Italic, Roboto Condensed" font-size="14" font-style="italic" font-weight="normal" letter-spacing="0.777777778">(используя. Slack, GitHub, Website, &amp; Social Media)</tspan>
-                    <tspan x="388.08162" y="238.5" font-family="Montserrat-MediumItalic, Montserrat" font-style="italic" font-weight="500" letter-spacing="1"></tspan>
-                    <tspan x="47.5" y="263.5" font-family="Montserrat-Bold, Montserrat"></tspan>
-                    <tspan x="47.5" y="288.5">●</tspan>
-                    <tspan x="58.991607" y="288.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="288.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Встречается онлайн ежемесячно</tspan>
-                    <tspan x="336.600378" y="288.5" font-family="Montserrat-Bold, Montserrat"></tspan>
-                    <tspan x="47.5" y="313.5">●</tspan>
-                    <tspan x="58.991607" y="313.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
-                    <tspan x="65.170964" y="313.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Встречается лично ежегодно на </tspan>
-                    <tspan x="47.5" y="338.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">    конференции PyCon США</tspan>
+                <text id="●-9-мест-(6-избирате" font-family="LucidaGrande-Bold, Lucida Grande" font-size="18" font-weight="bold" line-spacing="25" letter-spacing="1.085357">
+                    <tspan x="47.5" y="138.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="138.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="138.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.8153568" fill="#000000">9 мест (6 избирательныхб 3 назначенных)</tspan>
+                    <tspan x="414.202301" y="138.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500" fill="#000000"></tspan>
+                    <tspan x="47.5" y="163.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="163.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="163.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Активная лидерская команда</tspan>
+                    <tspan x="310.814206" y="163.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500" fill="#000000"></tspan>
+                    <tspan x="47.5" y="188.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="188.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="188.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Связь с Python Software Foundation</tspan>
+                    <tspan x="354.877136" y="188.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" fill="#000000"></tspan>
+                    <tspan x="47.5" y="213.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="213.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="213.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Управляет связью с общественностью </tspan>
+                    <tspan x="389.825066" y="213.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500" letter-spacing="0.82" fill="#000000"> </tspan>
+                    <tspan x="47.5" y="238.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500" fill="#000000">   </tspan>
+                    <tspan x="65.660071" y="238.5" font-family="RobotoCondensed-Italic, Roboto Condensed" font-size="14" font-style="italic" font-weight="normal" letter-spacing="0.777777778" fill="#000000">(используя. Slack, GitHub, Website, &amp; Social Media)</tspan>
+                    <tspan x="388.08162" y="238.5" font-family="Montserrat-MediumItalic, Montserrat" font-style="italic" font-weight="500" letter-spacing="1" fill="#000000"></tspan>
+                    <tspan x="47.5" y="263.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"></tspan>
+                    <tspan x="47.5" y="288.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="288.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="288.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Встречается онлайн ежемесячно</tspan>
+                    <tspan x="336.600378" y="288.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"></tspan>
+                    <tspan x="47.5" y="313.5" fill="#000000">●</tspan>
+                    <tspan x="58.991607" y="313.5" font-family="Montserrat-Bold, Montserrat" fill="#000000"> </tspan>
+                    <tspan x="65.170964" y="313.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Встречается лично ежегодно на </tspan>
+                    <tspan x="47.5" y="338.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#FFE48F">__</tspan>
+                    <tspan x="63.7122656" y="338.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">конференции PyCon США</tspan>
                 </text>
                 <text id="PyLadies-глобальная" font-family="Raleway-SemiBold, Raleway SemiBold" font-size="26" font-weight="500" letter-spacing="1.79307128" fill="#000000">
                     <tspan x="165.583715" y="48.5">PyLadies</tspan>
@@ -64,16 +64,18 @@
             </g>
             <g id="Advisors" transform="translate(81.500000, 589.000000)">
                 <rect id="Rectangle" stroke="#0C395D" stroke-width="2" fill="#366F9E" opacity="0.731654576" x="0.5" y="0.5" width="454" height="176" rx="38"></rect>
-                <text id="●-Пассивная-панель-к" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="23" letter-spacing="1.085357" fill="#000000">
-                    <tspan x="46" y="54.5"></tspan>
-                    <tspan x="46" y="77.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">● </tspan>
-                    <tspan x="64.5095812" y="77.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Пассивная панель консультантов</tspan>
-                    <tspan x="341.549034" y="77.5"></tspan>
-                    <tspan x="46" y="100.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">●</tspan>
-                    <tspan x="57.491607" y="100.5" font-family="Montserrat-Bold, Montserrat" font-weight="bold"> </tspan>
-                    <tspan x="63.670964" y="100.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">Предыдущие участники глобальной </tspan>
-                    <tspan x="46" y="123.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">    организации предоставляющие </tspan>
-                    <tspan x="46" y="146.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82">    консультации</tspan>
+                <text id="●-Пассивная-панель-к" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="23" letter-spacing="1.085357">
+                    <tspan x="46" y="54.5" fill="#000000"></tspan>
+                    <tspan x="46" y="77.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold" fill="#000000">● </tspan>
+                    <tspan x="64.5095812" y="77.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Пассивная панель консультантов</tspan>
+                    <tspan x="341.549034" y="77.5" fill="#000000"></tspan>
+                    <tspan x="46" y="100.5" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold" fill="#000000">●</tspan>
+                    <tspan x="57.491607" y="100.5" font-family="Montserrat-Bold, Montserrat" font-weight="bold" fill="#000000"> </tspan>
+                    <tspan x="63.670964" y="100.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">Предыдущие участники глобальной </tspan>
+                    <tspan x="46" y="123.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#6C95B8">__</tspan>
+                    <tspan x="62.2122656" y="123.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">организации предоставляющие </tspan>
+                    <tspan x="46" y="146.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#6C95B8">__</tspan>
+                    <tspan x="62.2122656" y="146.5" font-family="RobotoCondensed-Regular, Roboto Condensed" font-style="condensed" font-weight="normal" letter-spacing="0.82" fill="#000000">консультации</tspan>
                 </text>
                 <text id="Консультанты-PyLadie" font-family="Raleway-SemiBold, Raleway SemiBold" font-size="26" font-weight="500" letter-spacing="1.93916667" fill="#000000">
                     <tspan x="59.69275" y="44.5">Консультанты PyLadies</tspan>
