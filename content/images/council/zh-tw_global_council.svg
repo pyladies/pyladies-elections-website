@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1454px" height="961px" viewBox="0 0 1454 961" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="249.128676%" gradientTransform="translate(0.500000,0.500000),scale(0.187826,1.000000),rotate(-7.546546),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#C42539" offset="55.5743243%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1454" height="961"></rect>
+        <g id="Global-Leadership" transform="translate(117.000000, 38.500000)">
+            <path d="M52,107 L566,107 C594.718807,107 618,130.281193 618,159 L618,763 C618,791.718807 594.718807,815 566,815 L52,815 C23.281193,815 3.51703951e-15,791.718807 0,763 L0,159 C-3.51703951e-15,130.281193 23.281193,107 52,107 Z" id="Dotted-Outline" stroke="#EE264D" stroke-width="6" stroke-linecap="round" stroke-dasharray="0,15"></path>
+            <text id="國際領導團" font-family="PingFangSC-Semibold, PingFang SC" font-size="30" font-weight="500" letter-spacing="1.5589275" fill="#000000">
+                <tspan x="230.102681" y="32.5">國際領導團</tspan>
+            </text>
+            <g id="Global-Council" transform="translate(80.500000, 148.000000)">
+                <rect id="Rectangle" stroke="#F5A623" stroke-width="3" fill="#FFD141" opacity="0.591913132" x="0.5" y="0.5" width="456" height="405" rx="55"></rect>
+                <text id="●-9個席次-（-6位選舉，3位委派-）" font-family="LucidaGrande-Bold, Lucida Grande" font-size="18" font-weight="bold" line-spacing="25" letter-spacing="1.085357" fill="#000000">
+                    <tspan x="79" y="125.5">●</tspan>
+                    <tspan x="90.491607" y="125.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">9</tspan>
+                    <tspan x="109.042321" y="125.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">個席次</tspan>
+                    <tspan x="166.298392" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"> </tspan>
+                    <tspan x="172.351749" y="125.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">（</tspan>
+                    <tspan x="191.437106" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"> 6</tspan>
+                    <tspan x="209.86182" y="125.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">位選舉，</tspan>
+                    <tspan x="286.203248" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">3</tspan>
+                    <tspan x="297.764605" y="125.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">位委派</tspan>
+                    <tspan x="355.020676" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"> </tspan>
+                    <tspan x="361.074033" y="125.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">）</tspan>
+                    <tspan x="380.15939" y="125.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"></tspan>
+                    <tspan x="79" y="150.5">●</tspan>
+                    <tspan x="90.491607" y="150.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="150.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">活躍領導團隊</tspan>
+                    <tspan x="211.183106" y="150.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"></tspan>
+                    <tspan x="79" y="175.5">●</tspan>
+                    <tspan x="90.491607" y="175.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="175.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">與</tspan>
+                    <tspan x="115.756321" y="175.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">PSF</tspan>
+                    <tspan x="154.868392" y="175.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">聯系</tspan>
+                    <tspan x="193.039106" y="175.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="79" y="200.5">●</tspan>
+                    <tspan x="90.491607" y="200.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="200.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">主管公眾資產</tspan>
+                    <tspan x="211.183106" y="200.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500"> </tspan>
+                    <tspan x="79" y="225.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">   </tspan>
+                    <tspan x="97.160071" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-size="14" font-style="italic" font-weight="500" letter-spacing="0.777777778">(</tspan>
+                    <tspan x="102.655849" y="225.5" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.777777778">比如：</tspan>
+                    <tspan x="146.989182" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-size="14" font-style="italic" font-weight="500" letter-spacing="0.777777778">Slack, GitHub, </tspan>
+                    <tspan x="261.947849" y="225.5" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" letter-spacing="0.777777778">網站與社交媒體</tspan>
+                    <tspan x="365.392293" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-size="14" font-style="italic" font-weight="500" letter-spacing="0.777777778">)</tspan>
+                    <tspan x="370.888071" y="225.5" font-family="Montserrat-MediumItalic, Montserrat" font-style="italic" font-weight="500" letter-spacing="1"></tspan>
+                    <tspan x="79" y="250.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="79" y="275.5">●</tspan>
+                    <tspan x="90.491607" y="275.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="275.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">每月網上會議</tspan>
+                    <tspan x="211.183106" y="275.5" font-family="Montserrat-Bold, Montserrat"></tspan>
+                    <tspan x="79" y="300.5">●</tspan>
+                    <tspan x="90.491607" y="300.5" font-family="Montserrat-Bold, Montserrat"> </tspan>
+                    <tspan x="96.670964" y="300.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">每年當面在美國</tspan>
+                    <tspan x="230.268463" y="300.5" font-family="Montserrat-SemiBold, Montserrat" font-weight="500">PyCon</tspan>
+                    <tspan x="295.653248" y="300.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">聚會</tspan>
+                </text>
+                <text id="PyLadies國際理事會" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.8471424" fill="#000000">
+                    <tspan x="103.425574" y="61.5">PyLadies</tspan>
+                    <tspan x="231.338714" y="61.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">國際理事會</tspan>
+                    <tspan x="360.574426" y="61.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                    <tspan x="232" y="94.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                </text>
+            </g>
+            <g id="Advisors" transform="translate(81.500000, 587.000000)">
+                <rect id="Rectangle" stroke="#0C395D" stroke-width="2" fill="#366F9E" opacity="0.731654576" x="0.5" y="0.5" width="454" height="176" rx="38"></rect>
+                <text id="●-閑置（顧問）團體-●-前任全球委員過" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" line-spacing="25" letter-spacing="1.085357" fill="#000000">
+                    <tspan x="77.5" y="71"></tspan>
+                    <tspan x="77.5" y="96" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">●</tspan>
+                    <tspan x="88.991607" y="96" font-family="Montserrat-Bold, Montserrat" font-weight="bold"> </tspan>
+                    <tspan x="95.170964" y="96" font-family="PingFangSC-Semibold, PingFang SC">閑置（顧問）團體</tspan>
+                    <tspan x="247.85382" y="96"></tspan>
+                    <tspan x="77.5" y="121" font-family="LucidaGrande-Bold, Lucida Grande" font-weight="bold">●</tspan>
+                    <tspan x="88.991607" y="121" font-family="Montserrat-Bold, Montserrat" font-weight="bold"> </tspan>
+                    <tspan x="95.170964" y="121" font-family="PingFangSC-Semibold, PingFang SC">前任全球委員過渡成顧問</tspan>
+                </text>
+                <text id="PyLadies顧問" font-family="Montserrat-Bold, Montserrat" font-size="24" font-weight="bold" letter-spacing="1.547142" fill="#000000">
+                    <tspan x="145.19629" y="42.5">PyLadies</tspan>
+                    <tspan x="270.709426" y="42.5" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">顧問</tspan>
+                    <tspan x="321.80371" y="42.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                    <tspan x="233.5" y="75.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Projects" transform="translate(826.000000, 210.000000)">
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="482.1" width="460" height="86.4" rx="26"></rect>
+            <text id="技術" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" letter-spacing="1.547142" fill="#000000">
+                <tspan x="293.952858" y="533.3">技術</tspan>
+                <tspan x="345.047142" y="533.3" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+                <tspan x="319.5" y="566.3" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.931428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="361.7" width="460" height="86.4" rx="26"></rect>
+            <text id="市場營銷與品牌塑造" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" letter-spacing="1.447142" fill="#000000">
+                <tspan x="204.987861" y="410.9">市場營銷與品牌塑造</tspan>
+                <tspan x="434.012139" y="410.9" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.831428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="241.3" width="460" height="86.4" rx="26"></rect>
+            <text id="行為規範" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" letter-spacing="1.247142" fill="#000000">
+                <tspan x="269.005716" y="290.5">行為規範</tspan>
+                <tspan x="369.994284" y="290.5" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="0.631428"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="120.9" width="460" height="86.4" rx="26"></rect>
+            <text id="資源：-入職和篇章材料" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" letter-spacing="1.8471424" fill="#000000">
+                <tspan x="280.729286" y="157.1">資源：</tspan>
+                <tspan x="358.270714" y="157.1" font-family="Montserrat-Bold, Montserrat" font-weight="bold"></tspan>
+                <tspan x="245.862502" y="190.1" font-size="20" letter-spacing="1.039285">入職和篇章材料</tspan>
+                <tspan x="393.137497" y="190.1" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+            </text>
+            <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#radialGradient-1)" opacity="0.7789016" x="89.5" y="0.5" width="460" height="86.4" rx="26"></rect>
+            <text id="財政" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" letter-spacing="1.8471424" fill="#000000">
+                <tspan x="293.652858" y="49.2">財政</tspan>
+                <tspan x="345.347142" y="49.2" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+                <tspan x="319.5" y="82.2" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" letter-spacing="1.23142827"></tspan>
+            </text>
+            <g id="ouput-bracket" transform="translate(0.500000, 0.000000)" fill="url(#linearGradient-3)" fill-rule="nonzero">
+                <path d="M0,293.850004 L0,289.31178 C12.1752544,282.504444 17.3263235,251.871432 17.3263235,208.758304 L17.3263235,95.3027039 C17.3263235,61.2660239 19.6677186,37.440348 24.3505087,22.69112 C29.0332989,7.94189199 38.8671582,1.134556 52.9155286,0 L52.9155286,9.07644799 C36.0574841,20.422008 36.0574841,66.9388039 36.0574841,90.7644799 L36.0574841,204.22008 C36.0574841,248.467764 33.24781,276.831664 18.7311606,291.580892" id="a"></path>
+                <path d="M0,583.212584 L0,578.67436 C12.1752544,571.867024 17.3263235,541.234012 17.3263235,498.120884 L17.3263235,384.665285 C17.3263235,350.628605 19.6677186,326.802929 24.3505087,312.053701 C29.0332989,297.304473 38.8671582,290.497137 52.9155286,289.362581 L52.9155286,298.439029 C36.0574841,309.784589 36.0574841,356.301385 36.0574841,380.127061 L36.0574841,493.58266 C36.0574841,537.830344 33.24781,566.194244 18.7311606,580.943472" id="a" transform="translate(26.457764, 436.287582) scale(1, -1) translate(-26.457764, -436.287582) "></path>
+            </g>
+        </g>
+        <g id="Aknowledgements" transform="translate(1129.000000, 866.000000)" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" letter-spacing="0.8453565">
+            <text id="計劃的來自PyCon-2019會議" fill="#000000">
+                <tspan x="4.54747351e-13" y="19.5">計劃的來自</tspan>
+                <tspan x="94.2267825" y="19.5" font-family="Montserrat-SemiBoldItalic, Montserrat" font-style="italic">PyCon 2019</tspan>
+                <tspan x="208.178348" y="19.5">會議</tspan>
+            </text>
+            <text id="靈感來自R-Ladies-集團">
+                <tspan x="4.54747351e-13" y="50.5" fill="#000000">靈感來自</tspan>
+                <tspan x="75.381426" y="50.5" font-family="Montserrat-BoldItalic, Montserrat" font-style="italic" font-weight="bold" fill="#65A9B6">R Ladies</tspan>
+                <tspan x="162.406278" y="50.5" font-family="Montserrat-BoldItalic, Montserrat" font-style="italic" font-weight="bold" fill="#000000"> </tspan>
+                <tspan x="168.345635" y="50.5" fill="#000000">集團</tspan>
+            </text>
+        </g>
+        <text id="(6-位兩年承諾時期，3位-壹年承諾時期" font-family="Montserrat-SemiBoldItalic, Montserrat" font-size="24" font-style="italic" font-weight="500" letter-spacing="1" fill="#000000">
+            <tspan x="206.04" y="100">(6 </tspan>
+            <tspan x="239.04" y="100" font-family="PingFangSC-Semibold, PingFang SC">位兩年承諾時期，</tspan>
+            <tspan x="439.04" y="100">3</tspan>
+            <tspan x="454.008" y="100" font-family="PingFangSC-Semibold, PingFang SC">位</tspan>
+            <tspan x="479.008" y="100"> </tspan>
+            <tspan x="486.632" y="100" font-family="PingFangSC-Semibold, PingFang SC">壹年承諾時期</tspan>
+            <tspan x="636.632" y="100">)</tspan>
+        </text>
+    </g>
+</svg>
