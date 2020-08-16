@@ -11,8 +11,8 @@ Slug: consejo global
 ### El Modelo
 
 <div class="float-right container">
-  <img src="/images/council/council-structure.png"
-     alt="PyLadies governance structure" width="400px" />
+  <img src="/images/council/es_global_council.svg"
+     alt="PyLadies governance structure" width="900px" />
 </div>
 
 Luego de [la solicitud publica para el período de comentarios](https://github.com/pyladies/global-organizing/issues/11) en 2019, PyLadies ha creado un fomato actual para la governabilidad de PyLadies Global:
