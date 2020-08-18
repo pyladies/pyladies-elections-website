@@ -11,7 +11,7 @@ Slug: council
 ### Наша модель
 
 <div class="float-center container">
-  <img src="/images/council/council-structure-II.svg"
+  <img src="/images/council/ru_global_council.svg"
      alt="Структура организации PyLadies" width="900px" />
 </div>
 

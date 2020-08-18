@@ -11,7 +11,7 @@ Slug: conselho_global
 ### Nosso modelo
 
 <div class="float-center container">
-  <img src="/images/council/pt_Global_Council1.svg"
+  <img src="/images/council/pt_global_council.svg"
      alt="Estrutura de governança do PyLadies" width="900px" />
 </div>
 

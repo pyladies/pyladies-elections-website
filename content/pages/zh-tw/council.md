@@ -11,7 +11,7 @@ Slug: council
 ### 我們的模型
 
 <div class="float-center container">
-  <img src="/images/council/council-structure-II.svg"
+  <img src="/images/council/zh-tw_global_council.svg"
      alt="PyLadies 治理結構" width="900px" />
 </div>
 
