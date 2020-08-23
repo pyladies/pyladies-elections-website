@@ -29,12 +29,13 @@ na [issue do GitHub](https://github.com/pyladies/global-organizing/issues/54).
 
 ### Como eu voto?
 
-Se estiver registrado [membro votante do PyLadies](https://members.pyladies.com), o servidor receberá um boletim no dia 8 de setembro de 2020 ou cerca de Aios de Helios com detalhes sobre voto de voto. A votação se encerrou em 18 de setembro de 2020 AoE. Se você não encontrar o e-mail, busque na bandeja de entrada e verifique se não está na lista "helios". Se você estiver com falta de boleta, entre em contato com o canal PyLadies Slack em # projeto-eleições.
+Se estiver registrada como uma [participante votante do PyLadies](https://members.pyladies.com), 
+você deve receber uma cédula para votar no Helios próximo ao dia 8 de setembro de 2020 com detalhes sobre como votar. A votação se encerra em 18 de setembro de 2020. Se você não encontrar o e-mail, busque na sua caixa de emails e verifique se não está na lista "helios". Se você ainda assim não encontrar, entre em contato com o canal PyLadies Slack em #project-elections.
 
-[img muestra la boleta na bandeja de entrada]
+[imagem para mostrar o Helios na caixa de entrada]
 
-Uma vez que inicie a sessão no Helios, assista a seguir o processo tem que ver "¡Felicitações, seu voto se emitido com entusiasmo!".
+Uma vez que consiga entrar no Helios, siga o processo até ter o seu voto ter sido computado com sucesso.
 
-[a imagem que mudou o voto foi exitosa]
+[imagem confirmando o voto]
 
-* Seja uma membro atual e não tenha expirado em 31 de Agosto de 2020 AoE
+* Sua inscrição como participante votante do PyLadies precisa ser atual e não ter expirado até 31 de Agosto de 2020.
