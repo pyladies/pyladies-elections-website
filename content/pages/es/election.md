@@ -18,7 +18,7 @@ Slug: eleccion
 - Fin de las votaciones: 17 de Junio, 2020 AoE
 
 ### Registrate como candidata a las elecciones
-Las interesadas en declarar una candidatura pueden hacerlo en [página de registro] (http://elections.pyladies.com/pages/apply.html).
+Las interesadas en declarar una candidatura pueden hacerlo en [página de registro] (http://elections.pyladies.com/es/pages/apply.html).
 
 
 ### Declaración de Ganadoras

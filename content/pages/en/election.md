@@ -20,7 +20,7 @@ Slug: election
 
 
 ###  Register as a Candidate for the Election
-Those interested in declaring their candidacy can do so on the the [apply page](http://elections.pyladies.com/pages/apply.html).
+Those interested in declaring their candidacy can do so on the the [apply page](http://elections.pyladies.com/en/pages/apply.html).
 
 
 ### Declaring winners
