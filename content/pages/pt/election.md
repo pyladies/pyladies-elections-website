@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Detalhes sobre a eleição do Conselho Global do PyLadies de 2020
 Lang: pt
-Slug: eleição
+Slug: election
 
 ## Eleição do Conselho Global do PyLadies
 

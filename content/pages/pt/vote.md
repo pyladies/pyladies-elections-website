@@ -4,7 +4,7 @@ Date: 2020-06-21 13:30
 Icon: icon-link2
 Summary: Detalhes sobre a votação para os membros do Conselho Global do PyLadies
 Lang: pt
-Slug: votar
+Slug: vote
 
 
 ## Votação para o Conselho Global do PyLadies
