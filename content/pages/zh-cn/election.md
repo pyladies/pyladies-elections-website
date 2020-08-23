@@ -20,7 +20,7 @@ Slug: election
 
 
 ###   候选人报名
-有兴趣成为候选人的人，请参考[此页面](http://elections.pyladies.com/pages/zh-cn/apply.html)。
+有兴趣成为候选人的人，请参考[此页面](http://elections.pyladies.com/zh-cn/pages/apply.html)。
 
 
 ###  公布获选者

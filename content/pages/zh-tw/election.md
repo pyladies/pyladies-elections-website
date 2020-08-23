@@ -22,7 +22,7 @@ Slug: election
 
 ###  候選人報名
 
-有興趣成為候選人的人，請參考[此頁面](http://elections.pyladies.com/pages/zh-tw/apply.html)。
+有興趣成為候選人的人，請參考[此頁面](http://elections.pyladies.com/zh-tw/pages/apply.html)。
 
 
 ###  公布獲選者
