@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: História do Conselho Global PyLadies 
 Lang: pt
-Slug: historia
+Slug: history
 
 ## História do Conselho Global PyLadies 
 

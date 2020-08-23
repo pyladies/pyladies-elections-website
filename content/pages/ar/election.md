@@ -19,7 +19,7 @@ Slug: election
 
 ### سجل كمرشح للانتخابات
 
-يمكن للمهتمين بإعلان ترشحهم القيام بذلك على [تطبيق الصفحة](http://elections.pyladies.com/pages/apply.html).
+يمكن للمهتمين بإعلان ترشحهم القيام بذلك على [تطبيق الصفحة](http://elections.pyladies.com/ar/pages/apply.html).
 
 ### إعلان الفائزين
 

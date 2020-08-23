@@ -18,7 +18,7 @@ Slug: élection
 
 ### S'inscrire comme candidat à l'élection
 
-Les personnes intéressées à déclarer leur candidature peuvent le faire sur la [page de candidature](http://elections.pyladies.com/pages/apply.html).
+Les personnes intéressées à déclarer leur candidature peuvent le faire sur la [page de candidature](http://elections.pyladies.com/fr/pages/postuler.html).
 
 ### Déclarer les gagnants
 

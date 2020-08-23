@@ -4,7 +4,7 @@ Date: 2020-04-09 10:30
 Icon: icon-link2
 Summary: Detalhes sobre a eleição do Conselho Global do PyLadies de 2020
 Lang: pt
-Slug: eleição
+Slug: election
 
 ## Eleição do Conselho Global do PyLadies
 
@@ -18,7 +18,7 @@ Slug: eleição
 - Data de término da votação: 18 de setembro de 2020 AoE
 
 ### Registre-se como candidata à eleição
-As interessadas em declarar sua candidatura podem fazê-lo na [página de inscrição](http://elections.pyladies.com/pages/apply.html).
+As interessadas em declarar sua candidatura podem fazê-lo na [página de inscrição](http://elections.pyladies.com/pt/pages/apply.html).
 
 
 ### Declarando vencedores
