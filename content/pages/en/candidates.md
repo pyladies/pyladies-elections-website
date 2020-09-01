@@ -12,8 +12,8 @@ Slug: candidates
 - Pronouns: she/her
 - Country of Residence: Brazil
 - Employer: Universidade Federal de Pernambuco 
-- PyLadies Chapter: PyLadies Brazil, Recife, Brazil Co-Organizer
-- Affiliations: Open Knowledge Brasil, Women in Data Science Recife
+- PyLadies Chapter: PyLadies Brazil, Recife, Brazil
+- Affiliations: PyLadies Brazil, Recife, Brazil Co-Organizer, Open Knowledge Brasil, Women in Data Science Recife
 
 <details>
   <summary><h3>Click ➕ to read candidate Ana Cecília Vieira Silva's statement.</h3></summary>
@@ -43,8 +43,8 @@ My goals as a member of PyLadies Global Council is work to bring more diversity 
 - Pronouns: she/her
 - Country of Residence: México
 - Employer: Fairplay (Freedom to Scale) México
-- PyLadies Chapter: Pyladies Ciudad de México Co-Organizer
-- Affiliations: Python Guatemala Community Co-Founder
+- PyLadies Chapter: Pyladies Ciudad de México 
+- Affiliations: Pyladies Ciudad de México Co-Organizer, Python Guatemala Community Co-Founder
 
 <details>
   <summary><h3>Click ➕ to read candidate Ana Valeria Calderón Briz's statement.</h3></summary>
@@ -220,6 +220,32 @@ I'm <a href="http://olgaberezovsky.com/">Olga</a>, Senior Data Analyst. Born in 
 I have been PyLadies member since 2016 and always felt supported by this community while dealing with different challenges (getting started with Python, feeling lost in ML, job search). Over the last 4 years I did a few lightings talks, presentations,  translations, organizing meetups within PyLadies community, but I feel this can be the time to invest and contribute more to developing and promoting our wonderful supportive community.  
 <br><br>
 I am also a member of Women Who Code and Women in Analytics organizations. In my free time I do ice skating, <a href="https://dataanalysis.substack.com">writing</a> and flying (I'm a pilot). 
+</details>
+<br><br>
+
+## Candidate: Sayantika Banik
+
+- Pronouns: she/her
+- Country of Residence: India
+- Employer: Continual Engine
+- PyLadies Chapter: PyLadies Bangalore
+- Affiliations: Pyladies Bangalore Co-organizer, Django Software Foundation Board member, Elastic.co Bangalore User group organiser, SocialCoder & Founders4Schools Volunteer 
+
+<details>
+  <summary><h3>Click ➕ to read candidate Sayantika Banik's statement.</h3></summary>
+<h3>Candidate Statement:</h3>
+<br><br>
+Community has always been a vital part of my life and career. 
+<br><br>
+They have shaped my ability to think and have motivated me to contribute back. Unfortunately, there are still so many developers struggling to find a safe space where they are treated equally. One of them was me!  
+<br><br>
+Personally I want to spread a simple message to treat everyone well and to speak up when needed. Pyladies is one such platform which is helping a lot of developers to confidently rise up and present their ideas especially Women.
+<br><br>
+I have learned so many wonderful lessons being part of various communities.   Currently, I am contributing as a board member at "Django Software Foundation" and Organiser at "Pyladies Bangalore & Elastic.co Bangalore. In the past I have been associated with "Google Developer Group, Bangalore" and "Women Techmakers, Bangalore". 
+<br><br>
+Apart from earning my livelihood, I mentor developers across the globe under programs like "Learn it Girl", "GirlScript Foundation", "Founders4School" and "Women Techmakers". I actively take part in volunteering for a social cause here in India though "Atal Innovation Mission" where students are introduced to STEM in their early high school days.
+<br><br>
+Together we can bring in a significant difference!.
 </details>
 <br><br>
 
