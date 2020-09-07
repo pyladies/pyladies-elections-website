@@ -16,7 +16,7 @@ Slug: candidates
 - Affiliations: PyLadies Brazil, Recife, Brazil Co-Organizer, Open Knowledge Brasil, Women in Data Science Recife
 
 <details>
-  <summary><h3>Click ➕ to read candidate Ana Cecília Vieira Silva's statement.</h3></summary>
+  <summary><h3 id="candidate-1">Click ➕ to read candidate Ana Cecília Vieira Silva's statement.</h3></summary>
 <br>
 <h3>Candidate Statement:</h3>
 <br><br>
@@ -47,7 +47,7 @@ My goals as a member of PyLadies Global Council is work to bring more diversity 
 - Affiliations: Pyladies Ciudad de México Co-Organizer, Python Guatemala Community Co-Founder
 
 <details>
-  <summary><h3>Click ➕ to read candidate Ana Valeria Calderón Briz's statement.</h3></summary>
+  <summary><h3 id="candidate-2">Click ➕ to read candidate Ana Valeria Calderón Briz's statement.</h3></summary>
 <br>
 <h3>Candidate Statement:</h3>
 <br><br>
@@ -105,7 +105,7 @@ My goals as a member of PyLadies Global Council is work to bring more diversity 
 - Affiliations: Python Namibia President
 
 <details>
-  <summary><h3>Click ➕ to read candidate Jessica Upani's statement.</h3></summary>
+  <summary><h3 id="candidate-3">Click ➕ to read candidate Jessica Upani's statement.</h3></summary>
 <br>
 <h3>Candidate Statement:</h3>
 <br><br>
@@ -122,7 +122,7 @@ I have a great passion for community building and I was fortunate to have lead t
 - Affiliations: None provided
 
 <details>
-  <summary><h3>Click ➕ to read candidate Juliana Ferreira Alves's statement.</h3></summary>
+  <summary><h3 id="candidate-4">Click ➕ to read candidate Juliana Ferreira Alves's statement.</h3></summary>
 <br>
 <h3>Candidate Statement:</h3>
 <br><br>
@@ -165,7 +165,7 @@ Link to the <a href="https://docs.google.com/document/d/1c97or9OL7XYg6oZHB_Rzwi5
 - Affiliations: Python Software Foundation, Django Software Foundation, Association for Computing Machinery
 
 <details>
-  <summary><h3>Click ➕ to read candidate Lynn Root's statement.</h3></summary>
+  <summary><h3 id="candidate-5">Click ➕ to read candidate Lynn Root's statement.</h3></summary>
 <h3>Candidate Statement:</h3>
 <br><br>
 Hi there! My name is Lynn Root, and I'd like to be considered for an elected seat on the inaugural cohort of the PyLadies Global Council!
@@ -213,7 +213,7 @@ I loved supporting and elevating my fellow PyLadies and friends of PyLadies; it 
 - Affiliations: Women Who Code, Women In Analytics 
 
 <details>
-  <summary><h3>Click ➕ to read candidate Olga Berezovsky's statement.</h3></summary>
+  <summary><h3 id="candidate-6">Click ➕ to read candidate Olga Berezovsky's statement.</h3></summary>
 <h3>Candidate Statement:</h3>
 <br><br>
 I'm <a href="http://olgaberezovsky.com/">Olga</a>, Senior Data Analyst. Born in Ukraine, based in San Francisco.  
@@ -232,7 +232,7 @@ I am also a member of Women Who Code and Women in Analytics organizations. In my
 - Affiliations: Pyladies Bangalore Co-organizer, Django Software Foundation Board member, Elastic.co Bangalore User group organiser, SocialCoder & Founders4Schools Volunteer 
 
 <details>
-  <summary><h3>Click ➕ to read candidate Sayantika Banik's statement.</h3></summary>
+  <summary><h3 id="candidate-7">Click ➕ to read candidate Sayantika Banik's statement.</h3></summary>
 <h3>Candidate Statement:</h3>
 <br><br>
 Community has always been a vital part of my life and career. 
@@ -258,7 +258,7 @@ Together we can bring in a significant difference!.
 - Affiliations: JOSS, Alan Turing Institute, UKRSE 
 
 <details>
-  <summary><h3>Click ➕ to read candidate Tania Allard's statement.</h3></summary>
+  <summary><h3 id="candidate-8">Click ➕ to read candidate Tania Allard's statement.</h3></summary>
 <h3>Candidate Statement:</h3>
 <br><br>
 I want to propose my candidacy for a seat at the PyLadies Global Council. 
@@ -284,7 +284,7 @@ Therefore I would love to be able to continue working in the improvement of Pyla
 - Affiliations: Board member of Python Software Verband 
 
 <details>
-  <summary><h3>Click ➕ to read candidate Tereza Iofciu's statement.</h3></summary>
+  <summary><h3 id="candidate-9">Click ➕ to read candidate Tereza Iofciu's statement.</h3></summary>
 <h3>Candidate Statement:</h3>
 <br><br>
 I've started the PyLadies Hamburg chapter two years ago as I felt there was a lack of diversity efforts in Hamburg. Since then we've done a lot of workshops and meetups also together with other Python organizations in town.  I really love the PyLadies initiative as it is by far one of the least selfish communities with clear values. This is really motivating me to get involved and help out and I've been doing that on off when having time.
