@@ -10,7 +10,6 @@ Slug: election
 
 ### Election Calendar
 
-
 - Open call for Council Member Nominations: August 6, 2020 AoE
 - Council Member Nomination cut-off: August 31, 2020 AoE 
 
@@ -18,10 +17,9 @@ Slug: election
 - Voting start date: September 7, 2020 AoE 
 - Voting end date: September 18, 2020 AoE
 
-
 ###  Register as a Candidate for the Election
-Those interested in declaring their candidacy can do so on the the [apply page](http://elections.pyladies.com/en/pages/apply.html).
 
+Those interested in declaring their candidacy can do so on the the [apply page](http://elections.pyladies.com/en/pages/apply.html).
 
 ### Declaring winners
 

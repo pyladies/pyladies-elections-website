@@ -6,6 +6,11 @@ Summary: Candidates for the PyLadies Global Council Election 2020
 Lang: en
 Slug: candidates
 
+# PyLadies Election 2020
+
+The following candidates have registered for the PyLadies election 2020. The election will select *6 candidates* according to the rules of selection outlined in the [election overview](/pages/election.html).
+
+When voting in the Helios election, you can vote for any candidate that you approve of (e.g. 9 of the 9 candidates).  
 
 ## Candidate: Ana Cecília Vieira Silva
 
