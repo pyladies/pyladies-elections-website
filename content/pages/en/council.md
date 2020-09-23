@@ -35,4 +35,15 @@ The structure of the Council is subject to change based on recommendations and i
 
 ### Who is on the Council
 
-The inaugural cohort will be selected through a public election and appointment process scheduled for August/September 2020.
+The [inaugural Council members](*https://pyladies.com/blog/Announcing-the-Inaugural-PyLadies-Global-Council/inaugural-pyladies-council/) include:
+
+- Ana Cecília Vieira Silva (Brazil) - 2 year term
+- Juliana Ferreira Alves (Brazil) - 2 year term
+- Ana Valeria Calderón Briz (México) - 2 year term
+- Jessica Upani (Namibia) - 2 year term
+- Lynn Root (United States of America) - 2 year term
+- Tania Allard (United Kingdom) - 2 year term
+- Sarah Adigwe (Nigeria) - 1 year term
+- Marie-Louise Annan (United Kingdom) - 1 year term
+- Reshama Shaikh (United States of America) - 1 year term
+
